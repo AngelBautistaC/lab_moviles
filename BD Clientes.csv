@@ -1,0 +1,883 @@
+﻿id;Cliente;Edad;DNI;Distrito Domicilio;Zonal;Cod Postal Domicilio;Mes Nacimiento;Género;Estado Civil;Pais;Dpto Nacimiento;#Hijos;Preferencia
+1;7824;45;44052630;Ancón;LIMA NORTE ;LIMA 02;Mayo;Femenino;Divorciado;Perú;Ucayali;4;Viajes
+2;9255;68;43910816;Santa Rosa;LIMA NORTE ;LIMA 38;Septiembre;Femenino;Soltero;Perú;Loreto;0;Familia
+3;2213;39;44708775;Santa Anita;LIMA ESTE ;LIMA 43;Enero;Femenino;Soltero;Perú;Huancavelica;0;Trabajo
+4;8604;20;46531762;Barranco;LIMA CENTRO ;LIMA 04;Febrero;Masculino;Soltero;Perú;Madre de Dios;0;Familia
+5;7715;22;44236006;Lince;LIMA CENTRO ;LIMA 14;Julio;Femenino;Soltero;Perú;Piura;0;Amistades
+6;5033;25;48913588;Lima;LIMA CENTRO ;LIMA 01;Mayo;Masculino;Divorciado;Perú;Loreto;4;Diversión
+7;5289;27;46080800;Chorrillos;LIMA SUR ;LIMA 09;Octubre;Masculino;Soltero;Perú;Huánuco;0;Diversión
+8;7819;36;40108692;Punta Negra;LIMA SUR ;LIMA 23;Febrero;Femenino;Viudo;Perú;La Libertad;1;Trabajo
+9;7194;72;45658290;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Junio;Femenino;Viudo;Perú;La Libertad;1;Viajes
+10;6869;53;47615916;Lima;LIMA CENTRO ;LIMA 01;Julio;Masculino;Viudo;Perú;Junín;3;Familia
+11;2782;71;48214532;Santiago de Surco;LIMA CENTRO ;LIMA 33;Julio;Masculino;Soltero;Perú;Huancavelica;0;Diversión
+12;9253;68;45050201;Callao;CALLAO ;CALLAO 01;Febrero;Femenino;Casado;Perú;Arequipa;1;Viajes
+13;5664;56;45371156;Pachacámac;LIMA SUR ;LIMA 19;Diciembre;Femenino;Divorciado;Perú;Cuzco;1;Amistades
+14;4461;62;45473079;San Borja;LIMA CENTRO ;LIMA 41;Enero;Femenino;Casado;Perú;Tacna;2;Familia
+15;1908;73;47638750;Bellavista;CALLAO ;CALLAO 02;Marzo;Femenino;Casado;Perú;Ucayali;3;Viajes
+16;5089;38;43199699;Barranco;LIMA CENTRO ;LIMA 04;Octubre;Masculino;Divorciado;Perú;Ica;1;Viajes
+17;3465;14;42006623;Callao;CALLAO ;CALLAO 01;Agosto;Femenino;Soltero;Perú;Lima (Metropolitana);0;Familia
+18;4233;39;42211631;La Victoria;LIMA CENTRO ;LIMA 13;Abril;Femenino;Casado;Perú;La Libertad;2;Diversión
+19;5737;39;49081841;Barranco;LIMA CENTRO ;LIMA 04;Febrero;Masculino;Viudo;Perú;Ucayali;4;Viajes
+20;7105;74;47005135;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Julio;Femenino;Viudo;Perú;Junín;2;Diversión
+21;7089;17;40284051;La Punta;CALLAO ;CALLAO 05;Octubre;Masculino;Soltero;Perú;La Libertad;0;Trabajo
+22;4993;69;46129883;Pucusana;LIMA SUR ;LIMA 20;Febrero;Femenino;Soltero;Perú;Moquegua;0;Diversión
+23;3630;46;43260009;La Molina;LIMA ESTE ;LIMA 12;Septiembre;Femenino;Soltero;Perú;Áncash;0;Trabajo
+24;6157;60;49554529;La Victoria;LIMA CENTRO ;LIMA 13;Septiembre;Masculino;Soltero;Perú;Lima (Provincias);0;Diversión
+25;6113;15;44360734;Santa Rosa;LIMA NORTE ;LIMA 38;Marzo;Masculino;Soltero;Perú;Puno;0;Diversión
+26;6391;49;49099430;San Martín de Porres;LIMA NORTE ;LIMA 31;Agosto;Masculino;Soltero;Perú;Tacna;0;Diversión
+27;4672;31;42398407;San Isidro;LIMA CENTRO ;LIMA 27;Mayo;Femenino;Casado;Perú;Callao;1;Amistades
+28;5611;58;42523676;La Victoria;LIMA CENTRO ;LIMA 13;Abril;Femenino;Divorciado;Perú;Áncash;2;Trabajo
+29;2049;51;41648848;San Miguel;LIMA CENTRO ;LIMA 32;Enero;Masculino;Soltero;Perú;Áncash;0;Diversión
+30;1730;20;47983973;San Luis;LIMA ESTE ;LIMA 30;Abril;Masculino;Soltero;Perú;Huánuco;0;Familia
+31;8572;33;48197063;Santa Rosa;LIMA NORTE ;LIMA 38;Septiembre;Masculino;Soltero;Perú;Ucayali;0;Amistades
+32;3532;65;48166859;Bellavista;CALLAO ;CALLAO 02;Enero;Femenino;Viudo;Perú;La Libertad;2;Amistades
+33;2904;75;42699732;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Junio;Masculino;Divorciado;Perú;Cuzco;3;Viajes
+34;5594;35;46326184;Callao;CALLAO ;CALLAO 01;Abril;Femenino;Viudo;Perú;Moquegua;4;Viajes
+35;4423;28;48916094;Cieneguilla;LIMA ESTE ;LIMA 40;Diciembre;Femenino;Divorciado;Perú;Arequipa;4;Amistades
+36;9981;41;44538319;Santiago de Surco;LIMA CENTRO ;LIMA 33;Marzo;Femenino;Divorciado;Perú;Amazonas;3;Amistades
+37;5020;44;42639512;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Febrero;Femenino;Casado;Perú;Puno;3;Trabajo
+38;9525;47;44595002;Jesús María;LIMA CENTRO ;LIMA 11;Mayo;Femenino;Viudo;Perú;Cuzco;4;Amistades
+39;4700;21;48426452;Rímac;LIMA CENTRO ;LIMA 26;Septiembre;Masculino;Soltero;Perú;Tacna;0;Trabajo
+40;1752;75;44237835;Pueblo Libre;LIMA CENTRO ;LIMA 21;Noviembre;Masculino;Viudo;Perú;Puno;3;Diversión
+41;6347;62;49423308;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Mayo;Masculino;Divorciado;Perú;Ica;1;Familia
+42;7905;63;48344127;Independencia;LIMA NORTE ;LIMA 28;Octubre;Femenino;Divorciado;Perú;Áncash;4;Familia
+43;9317;27;42831769;San Martín de Porres;LIMA NORTE ;LIMA 31;Agosto;Femenino;Soltero;Perú;Apurímac;0;Familia
+44;6547;32;42029003;San Luis;LIMA ESTE ;LIMA 30;Febrero;Femenino;Divorciado;Perú;Huánuco;3;Diversión
+45;1081;35;47028580;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Marzo;Masculino;Viudo;Perú;Madre de Dios;2;Familia
+46;8832;45;47192035;Callao;CALLAO ;CALLAO 01;Junio;Masculino;Divorciado;Perú;San Martín;3;Viajes
+47;4900;18;42066171;Pueblo Libre;LIMA CENTRO ;LIMA 21;Enero;Masculino;Soltero;Perú;Junín;0;Diversión
+48;2055;22;42257169;Los Olivos;LIMA NORTE ;LIMA 39;Octubre;Femenino;Soltero;Perú;Lima (Provincias);0;Diversión
+49;7038;45;45017621;Chorrillos;LIMA SUR ;LIMA 09;Marzo;Masculino;Soltero;Perú;Junín;0;Amistades
+50;8597;29;44672966;Santa María del Mar;LIMA SUR ;LIMA 37;Diciembre;Masculino;Divorciado;Perú;San Martín;4;Trabajo
+51;3206;45;47004857;El Agustino;LIMA ESTE ;LIMA 10;Marzo;Masculino;Viudo;Perú;Moquegua;4;Amistades
+52;8960;71;40661982;Punta Hermosa;LIMA SUR ;LIMA 24;Enero;Femenino;Viudo;Perú;Amazonas;2;Diversión
+53;8615;71;49270544;Breña;LIMA CENTRO ;LIMA 05;Noviembre;Femenino;Viudo;Perú;Apurímac;1;Diversión
+54;7193;17;47475505;Jesús María;LIMA CENTRO ;LIMA 11;Junio;Femenino;Soltero;Perú;Cuzco;0;Trabajo
+55;3678;73;46774721;Carabayllo;LIMA NORTE ;LIMA 06;Enero;Masculino;Divorciado;Perú;Moquegua;1;Amistades
+56;6021;50;48088213;Ate;LIMA ESTE ;LIMA 03;Septiembre;Femenino;Casado;Perú;Lima (Metropolitana);1;Familia
+57;5396;56;41730078;Rímac;LIMA CENTRO ;LIMA 26;Junio;Femenino;Viudo;Perú;Piura;1;Familia
+58;4445;20;40321272;La Punta;CALLAO ;CALLAO 05;Marzo;Masculino;Soltero;Perú;Lambayeque;0;Familia
+59;8350;40;44846312;Villa El Salvador;LIMA SUR ;LIMA 42;Septiembre;Masculino;Casado;Perú;Huánuco;4;Viajes
+60;2884;60;49072543;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Septiembre;Femenino;Viudo;Perú;Apurímac;3;Amistades
+61;9396;40;47818759;Barranco;LIMA CENTRO ;LIMA 04;Mayo;Masculino;Casado;Perú;Cuzco;3;Amistades
+62;3553;46;43637672;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Marzo;Femenino;Soltero;Perú;San Martín;0;Viajes
+63;1900;27;41043393;San Isidro;LIMA CENTRO ;LIMA 27;Julio;Masculino;Soltero;Perú;La Libertad;0;Diversión
+64;4336;68;42351502;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Diciembre;Masculino;Casado;Perú;Junín;3;Amistades
+65;6784;60;40146898;San Isidro;LIMA CENTRO ;LIMA 27;Febrero;Masculino;Divorciado;Perú;Ucayali;2;Viajes
+66;9269;35;47383239;San Juan de Miraflores;LIMA SUR ;LIMA 29;Enero;Masculino;Casado;Perú;Cuzco;2;Amistades
+67;1921;28;47610375;San Isidro;LIMA CENTRO ;LIMA 27;Octubre;Masculino;Divorciado;Perú;San Martín;2;Familia
+68;3461;73;40654099;San Borja;LIMA CENTRO ;LIMA 41;Junio;Femenino;Divorciado;Perú;Amazonas;3;Diversión
+69;6715;30;46035235;Miraflores;LIMA CENTRO ;LIMA 18;Abril;Femenino;Casado;Perú;Callao;2;Trabajo
+70;9489;20;44562787;Ate;LIMA ESTE ;LIMA 03;Noviembre;Femenino;Soltero;Perú;Callao;0;Trabajo
+71;8724;53;46573695;Santiago de Surco;LIMA CENTRO ;LIMA 33;Septiembre;Masculino;Casado;Perú;Puno;1;Amistades
+72;6186;61;49577090;Pueblo Libre;LIMA CENTRO ;LIMA 21;Agosto;Masculino;Soltero;Perú;Lambayeque;0;Familia
+73;4991;16;40593389;Punta Negra;LIMA SUR ;LIMA 23;Julio;Femenino;Soltero;Perú;Moquegua;0;Viajes
+74;9141;66;41166187;Lima;LIMA CENTRO ;LIMA 01;Noviembre;Masculino;Divorciado;Perú;Ayacucho;4;Amistades
+75;9099;44;41543952;La Perla;CALLAO ;CALLAO 04;Diciembre;Femenino;Casado;Perú;Lima (Provincias);4;Amistades
+76;8683;38;41028798;Ancón;LIMA NORTE ;LIMA 02;Septiembre;Masculino;Viudo;Perú;Huancavelica;1;Trabajo
+77;2298;52;46852824;Chorrillos;LIMA SUR ;LIMA 09;Febrero;Femenino;Viudo;Perú;Ayacucho;1;Trabajo
+78;7201;16;46871282;San Miguel;LIMA CENTRO ;LIMA 32;Marzo;Masculino;Soltero;Perú;Ucayali;0;Trabajo
+79;3942;39;49336793;Jesús María;LIMA CENTRO ;LIMA 11;Agosto;Masculino;Viudo;Perú;Lambayeque;4;Familia
+80;9644;45;44550191;Ancón;LIMA NORTE ;LIMA 02;Enero;Femenino;Soltero;Perú;Cajamarca;0;Familia
+81;7064;58;43608712;Rímac;LIMA CENTRO ;LIMA 26;Febrero;Masculino;Casado;Perú;Amazonas;2;Amistades
+82;9744;67;48947191;La Victoria;LIMA CENTRO ;LIMA 13;Diciembre;Femenino;Casado;Perú;Piura;3;Amistades
+83;4627;65;40927157;Independencia;LIMA NORTE ;LIMA 28;Septiembre;Masculino;Viudo;Perú;Junín;4;Diversión
+84;6635;63;40436975;Comas;LIMA NORTE ;LIMA 07;Marzo;Masculino;Divorciado;Perú;Callao;1;Familia
+85;1502;78;41866374;Breña;LIMA CENTRO ;LIMA 05;Abril;Masculino;Divorciado;Perú;Tacna;3;Diversión
+86;6087;43;40078825;Santa Anita;LIMA ESTE ;LIMA 43;Junio;Femenino;Divorciado;Perú;Junín;4;Trabajo
+87;2933;46;41892156;Santa Rosa;LIMA NORTE ;LIMA 38;Enero;Masculino;Viudo;Perú;Lambayeque;2;Diversión
+88;2695;60;41505402;Independencia;LIMA NORTE ;LIMA 28;Abril;Masculino;Viudo;Perú;Piura;1;Viajes
+89;1916;49;44993490;Pachacámac;LIMA SUR ;LIMA 19;Septiembre;Femenino;Divorciado;Perú;Arequipa;4;Amistades
+90;4057;47;44673607;Comas;LIMA NORTE ;LIMA 07;Diciembre;Masculino;Viudo;Perú;Madre de Dios;3;Familia
+91;2690;36;43219207;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Julio;Masculino;Divorciado;Perú;Cajamarca;4;Familia
+92;2537;15;45832831;Villa El Salvador;LIMA SUR ;LIMA 42;Agosto;Masculino;Soltero;Perú;Áncash;0;Diversión
+93;5970;17;43884791;San Juan de Miraflores;LIMA SUR ;LIMA 29;Mayo;Masculino;Soltero;Perú;Lima (Provincias);0;Amistades
+94;5304;19;44567572;Villa El Salvador;LIMA SUR ;LIMA 42;Noviembre;Femenino;Soltero;Perú;San Martín;0;Viajes
+95;2029;23;46392446;Miraflores;LIMA CENTRO ;LIMA 18;Octubre;Femenino;Soltero;Perú;Huánuco;0;Diversión
+96;1499;74;47924641;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Agosto;Femenino;Soltero;Perú;San Martín;0;Familia
+97;6175;41;40595302;Carabayllo;LIMA NORTE ;LIMA 06;Marzo;Femenino;Casado;Perú;Huancavelica;1;Diversión
+98;3389;20;43301301;San Juan de Miraflores;LIMA SUR ;LIMA 29;Octubre;Masculino;Soltero;Perú;Moquegua;0;Familia
+99;4530;70;47824815;San Miguel;LIMA CENTRO ;LIMA 32;Noviembre;Masculino;Soltero;Perú;Huancavelica;0;Familia
+100;5253;64;45590734;Ventanilla;CALLAO ;CALLAO 06;Noviembre;Masculino;Casado;Perú;Pasco;3;Diversión
+101;6736;78;49453244;Pueblo Libre;LIMA CENTRO ;LIMA 21;Marzo;Masculino;Divorciado;Perú;Amazonas;2;Trabajo
+102;5337;14;48664601;Jesús María;LIMA CENTRO ;LIMA 11;Junio;Masculino;Soltero;Perú;Huancavelica;0;Viajes
+103;8556;40;43764621;Santa Rosa;LIMA NORTE ;LIMA 38;Junio;Masculino;Divorciado;Perú;Loreto;3;Familia
+104;6499;55;41245526;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Junio;Femenino;Viudo;Perú;La Libertad;4;Familia
+105;8760;77;46297031;San Miguel;LIMA CENTRO ;LIMA 32;Febrero;Masculino;Soltero;Perú;Cuzco;0;Viajes
+106;9008;48;47377520;Carabayllo;LIMA NORTE ;LIMA 06;Abril;Masculino;Soltero;Perú;Moquegua;0;Diversión
+107;5091;29;49378578;San Isidro;LIMA CENTRO ;LIMA 27;Agosto;Femenino;Divorciado;Perú;Cuzco;2;Trabajo
+108;8841;25;45346435;Santa María del Mar;LIMA SUR ;LIMA 37;Septiembre;Masculino;Viudo;Perú;Amazonas;4;Amistades
+109;9421;66;49215543;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Diciembre;Masculino;Casado;Perú;Ayacucho;1;Familia
+110;3281;19;48803991;San Isidro;LIMA CENTRO ;LIMA 27;Octubre;Femenino;Soltero;Perú;Puno;0;Amistades
+111;5078;57;43244982;San Borja;LIMA CENTRO ;LIMA 41;Septiembre;Masculino;Casado;Perú;Ucayali;3;Viajes
+112;6450;57;43239670;Barranco;LIMA CENTRO ;LIMA 04;Abril;Masculino;Soltero;Perú;Pasco;0;Amistades
+113;9296;60;40916240;San Borja;LIMA CENTRO ;LIMA 41;Mayo;Femenino;Casado;Perú;Junín;2;Amistades
+114;3800;24;49430780;San Bartolo;LIMA SUR ;LIMA 26;Mayo;Femenino;Soltero;Perú;Piura;0;Trabajo
+115;1148;18;49531776;Puente Piedra;LIMA NORTE ;LIMA 22;Junio;Femenino;Soltero;Perú;Junín;0;Diversión
+116;6392;31;40683830;San Martín de Porres;LIMA NORTE ;LIMA 31;Septiembre;Femenino;Casado;Perú;Amazonas;2;Trabajo
+117;5334;31;41516578;La Punta;CALLAO ;CALLAO 05;Enero;Femenino;Casado;Perú;La Libertad;3;Familia
+118;4773;37;42065149;Breña;LIMA CENTRO ;LIMA 05;Enero;Masculino;Viudo;Perú;Cajamarca;2;Trabajo
+119;8366;16;46485295;La Punta;CALLAO ;CALLAO 05;Septiembre;Masculino;Soltero;Perú;Lima (Provincias);0;Amistades
+120;6716;50;44130407;San Juan de Miraflores;LIMA SUR ;LIMA 29;Noviembre;Masculino;Casado;Perú;Arequipa;2;Diversión
+121;2045;16;41198048;Lince;LIMA CENTRO ;LIMA 14;Agosto;Masculino;Soltero;Perú;Cajamarca;0;Trabajo
+122;2514;26;47945368;San Isidro;LIMA CENTRO ;LIMA 27;Febrero;Masculino;Soltero;Perú;Junín;0;Familia
+123;6468;32;40051918;Los Olivos;LIMA NORTE ;LIMA 39;Octubre;Femenino;Soltero;Perú;Junín;0;Trabajo
+124;4630;41;47754483;Independencia;LIMA NORTE ;LIMA 28;Enero;Masculino;Divorciado;Perú;Huánuco;3;Familia
+125;8463;48;47461026;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Septiembre;Femenino;Soltero;Perú;Huánuco;0;Amistades
+126;5302;44;41392525;Lurín;LIMA SUR ;LIMA 16;Julio;Masculino;Soltero;Perú;Huánuco;0;Viajes
+127;1404;35;42406443;Callao;CALLAO ;CALLAO 01;Diciembre;Femenino;Viudo;Perú;Ucayali;1;Familia
+128;7946;35;49750314;Comas;LIMA NORTE ;LIMA 07;Junio;Femenino;Soltero;Perú;Huancavelica;0;Trabajo
+129;6778;51;40833935;Ate;LIMA ESTE ;LIMA 03;Noviembre;Masculino;Soltero;Perú;Moquegua;0;Diversión
+130;5658;25;45261377;Jesús María;LIMA CENTRO ;LIMA 11;Junio;Masculino;Viudo;Perú;Huánuco;2;Viajes
+131;1202;16;45772889;Santa María del Mar;LIMA SUR ;LIMA 37;Diciembre;Femenino;Soltero;Perú;Cajamarca;0;Familia
+132;7675;39;49152192;Villa María del Triunfo;LIMA SUR ;LIMA 35;Agosto;Femenino;Viudo;Perú;Pasco;1;Diversión
+133;7311;23;45697589;Rímac;LIMA CENTRO ;LIMA 26;Enero;Femenino;Soltero;Perú;Pasco;0;Amistades
+134;3839;55;49387993;San Bartolo;LIMA SUR ;LIMA 26;Agosto;Masculino;Soltero;Perú;Moquegua;0;Viajes
+135;5435;37;45272911;Santa Rosa;LIMA NORTE ;LIMA 38;Junio;Femenino;Casado;Perú;Apurímac;4;Viajes
+136;8371;60;49533951;Pachacámac;LIMA SUR ;LIMA 19;Mayo;Femenino;Viudo;Perú;Ucayali;4;Viajes
+137;7767;57;48865179;Villa El Salvador;LIMA SUR ;LIMA 42;Abril;Femenino;Divorciado;Perú;Madre de Dios;4;Familia
+138;7186;37;45629589;San Martín de Porres;LIMA NORTE ;LIMA 31;Enero;Masculino;Soltero;Perú;Junín;0;Trabajo
+139;7416;20;42800689;Ventanilla;CALLAO ;CALLAO 06;Junio;Masculino;Soltero;Perú;Cajamarca;0;Trabajo
+140;3969;58;40671262;Barranco;LIMA CENTRO ;LIMA 04;Febrero;Femenino;Viudo;Perú;La Libertad;4;Familia
+141;1675;43;42388546;Rímac;LIMA CENTRO ;LIMA 26;Marzo;Femenino;Soltero;Perú;Tumbes;0;Amistades
+142;2297;61;41309992;Lurín;LIMA SUR ;LIMA 16;Junio;Masculino;Casado;Perú;Cajamarca;1;Trabajo
+143;4867;23;47419165;Ancón;LIMA NORTE ;LIMA 02;Febrero;Femenino;Soltero;Perú;Cajamarca;0;Trabajo
+144;8311;18;41045428;Santa Rosa;LIMA NORTE ;LIMA 38;Julio;Femenino;Soltero;Perú;San Martín;0;Familia
+145;9716;17;46258902;Los Olivos;LIMA NORTE ;LIMA 39;Marzo;Masculino;Soltero;Perú;Lima (Metropolitana);0;Familia
+146;2156;17;46950179;Bellavista;CALLAO ;CALLAO 02;Febrero;Masculino;Soltero;Perú;Moquegua;0;Viajes
+147;6531;43;48810757;Lurín;LIMA SUR ;LIMA 16;Marzo;Femenino;Casado;Perú;Ucayali;2;Viajes
+148;1839;45;46162284;Pachacámac;LIMA SUR ;LIMA 19;Septiembre;Femenino;Soltero;Perú;Ica;0;Trabajo
+149;9900;24;48301741;San Luis;LIMA ESTE ;LIMA 30;Julio;Masculino;Soltero;Perú;San Martín;0;Viajes
+150;7072;20;47689997;Pachacámac;LIMA SUR ;LIMA 19;Marzo;Masculino;Soltero;Perú;Lambayeque;0;Trabajo
+151;9681;27;47458335;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Julio;Masculino;Viudo;Perú;Loreto;2;Familia
+152;8616;32;48964225;Lurín;LIMA SUR ;LIMA 16;Junio;Femenino;Viudo;Perú;Apurímac;4;Amistades
+153;8529;59;40069060;El Agustino;LIMA ESTE ;LIMA 10;Febrero;Femenino;Casado;Perú;Cajamarca;1;Amistades
+154;3495;19;43642265;Ventanilla;CALLAO ;CALLAO 06;Diciembre;Masculino;Soltero;Perú;Tacna;0;Trabajo
+155;6633;52;42389247;Ancón;LIMA NORTE ;LIMA 02;Marzo;Masculino;Casado;Perú;Puno;1;Amistades
+156;9585;43;42197799;Carabayllo;LIMA NORTE ;LIMA 06;Enero;Masculino;Soltero;Perú;Loreto;0;Familia
+157;1528;64;42657831;San Martín de Porres;LIMA NORTE ;LIMA 31;Diciembre;Femenino;Soltero;Perú;Ica;0;Amistades
+158;7335;65;41963432;Surquillo;LIMA CENTRO ;LIMA 34;Junio;Masculino;Soltero;Perú;La Libertad;0;Trabajo
+159;9430;30;49235331;San Bartolo;LIMA SUR ;LIMA 26;Septiembre;Masculino;Viudo;Perú;Ucayali;1;Familia
+160;8137;29;46987016;Cieneguilla;LIMA ESTE ;LIMA 40;Mayo;Femenino;Soltero;Perú;Ica;0;Familia
+161;8767;73;43124423;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Abril;Masculino;Viudo;Perú;Cuzco;3;Viajes
+162;8728;55;41413695;Miraflores;LIMA CENTRO ;LIMA 18;Marzo;Femenino;Divorciado;Perú;Madre de Dios;2;Familia
+163;3418;78;40597736;San Martín de Porres;LIMA NORTE ;LIMA 31;Febrero;Femenino;Viudo;Perú;Huánuco;3;Familia
+164;6266;63;44615449;Pueblo Libre;LIMA CENTRO ;LIMA 21;Mayo;Femenino;Divorciado;Perú;Áncash;2;Familia
+165;7610;54;41581450;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Abril;Femenino;Casado;Perú;Arequipa;1;Trabajo
+166;3023;19;45861766;Independencia;LIMA NORTE ;LIMA 28;Octubre;Femenino;Soltero;Perú;Junín;0;Viajes
+167;6060;17;42819945;Ancón;LIMA NORTE ;LIMA 02;Noviembre;Femenino;Soltero;Perú;Huancavelica;0;Amistades
+168;4849;48;47966107;San Miguel;LIMA CENTRO ;LIMA 32;Octubre;Masculino;Casado;Perú;Puno;2;Trabajo
+169;5924;15;43804356;La Punta;CALLAO ;CALLAO 05;Junio;Masculino;Soltero;Perú;Lambayeque;0;Viajes
+170;7292;77;47452201;Los Olivos;LIMA NORTE ;LIMA 39;Agosto;Masculino;Divorciado;Perú;Áncash;4;Trabajo
+171;9469;71;46415634;Independencia;LIMA NORTE ;LIMA 28;Junio;Femenino;Viudo;Perú;Lima (Metropolitana);3;Diversión
+172;9800;14;47567817;Miraflores;LIMA CENTRO ;LIMA 18;Octubre;Femenino;Soltero;Perú;Ayacucho;0;Amistades
+173;3637;47;42716280;San Martín de Porres;LIMA NORTE ;LIMA 31;Abril;Masculino;Casado;Perú;Amazonas;2;Diversión
+174;6044;61;45674519;Comas;LIMA NORTE ;LIMA 07;Enero;Femenino;Soltero;Perú;Lima (Metropolitana);0;Viajes
+175;6505;35;41164910;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Marzo;Femenino;Soltero;Perú;Cajamarca;0;Diversión
+176;1626;78;47556076;Bellavista;CALLAO ;CALLAO 02;Noviembre;Femenino;Divorciado;Perú;Áncash;3;Amistades
+177;9542;73;43015833;Barranco;LIMA CENTRO ;LIMA 04;Marzo;Femenino;Divorciado;Perú;Tacna;4;Viajes
+178;5035;21;45406406;Breña;LIMA CENTRO ;LIMA 05;Septiembre;Masculino;Soltero;Perú;La Libertad;0;Amistades
+179;8612;29;43962159;Lurín;LIMA SUR ;LIMA 16;Octubre;Masculino;Divorciado;Perú;Cajamarca;4;Trabajo
+180;4882;44;41277348;Lurín;LIMA SUR ;LIMA 16;Mayo;Masculino;Viudo;Perú;Madre de Dios;3;Familia
+181;2601;26;45132124;Villa María del Triunfo;LIMA SUR ;LIMA 35;Abril;Masculino;Soltero;Perú;La Libertad;0;Familia
+182;7134;28;48495784;Puente Piedra;LIMA NORTE ;LIMA 22;Noviembre;Femenino;Casado;Perú;Puno;4;Amistades
+183;2141;17;43251469;Breña;LIMA CENTRO ;LIMA 05;Noviembre;Femenino;Soltero;Perú;Junín;0;Diversión
+184;9547;22;46575264;La Punta;CALLAO ;CALLAO 05;Junio;Femenino;Soltero;Perú;Piura;0;Familia
+185;4104;23;41355889;Punta Negra;LIMA SUR ;LIMA 23;Enero;Femenino;Soltero;Perú;Lima (Provincias);0;Diversión
+186;8211;71;45399433;Los Olivos;LIMA NORTE ;LIMA 39;Febrero;Femenino;Viudo;Perú;Piura;2;Familia
+187;8055;18;46234875;San Luis;LIMA ESTE ;LIMA 30;Agosto;Femenino;Soltero;Perú;Madre de Dios;0;Trabajo
+188;9832;53;43020575;Independencia;LIMA NORTE ;LIMA 28;Mayo;Masculino;Casado;Perú;Huancavelica;2;Viajes
+189;4370;68;40460809;San Luis;LIMA ESTE ;LIMA 30;Febrero;Masculino;Soltero;Perú;Pasco;0;Familia
+190;8145;46;40408100;Pachacámac;LIMA SUR ;LIMA 19;Agosto;Femenino;Viudo;Perú;Pasco;1;Trabajo
+191;9999;69;49339173;La Molina;LIMA ESTE ;LIMA 12;Diciembre;Masculino;Divorciado;Perú;Amazonas;1;Diversión
+192;8250;60;47180227;Rímac;LIMA CENTRO ;LIMA 26;Octubre;Femenino;Viudo;Perú;Lima (Provincias);4;Trabajo
+193;8290;77;46507565;Rímac;LIMA CENTRO ;LIMA 26;Noviembre;Femenino;Divorciado;Perú;Huancavelica;1;Amistades
+194;8998;50;46532650;Carabayllo;LIMA NORTE ;LIMA 06;Abril;Femenino;Casado;Perú;Amazonas;4;Viajes
+195;3013;69;45653474;San Juan de Miraflores;LIMA SUR ;LIMA 29;Octubre;Femenino;Viudo;Perú;Tumbes;4;Viajes
+196;9695;57;46819667;Punta Negra;LIMA SUR ;LIMA 23;Febrero;Femenino;Divorciado;Perú;Ica;4;Amistades
+197;8816;35;44343414;Surquillo;LIMA CENTRO ;LIMA 34;Septiembre;Masculino;Divorciado;Perú;Áncash;2;Diversión
+198;1665;47;41040286;Santiago de Surco;LIMA CENTRO ;LIMA 33;Agosto;Femenino;Viudo;Perú;Cajamarca;1;Familia
+199;7307;65;44184532;Lima;LIMA CENTRO ;LIMA 01;Agosto;Femenino;Casado;Perú;La Libertad;4;Viajes
+200;4424;71;43215962;Chorrillos;LIMA SUR ;LIMA 09;Noviembre;Masculino;Divorciado;Perú;Lambayeque;3;Trabajo
+201;7703;34;47236939;La Perla;CALLAO ;CALLAO 04;Marzo;Femenino;Casado;Perú;Arequipa;1;Familia
+202;1549;31;42012990;Carabayllo;LIMA NORTE ;LIMA 06;Mayo;Masculino;Soltero;Perú;Ayacucho;0;Diversión
+203;6430;65;43849493;Pachacámac;LIMA SUR ;LIMA 19;Febrero;Femenino;Viudo;Perú;Pasco;2;Trabajo
+204;6527;31;47087813;Puente Piedra;LIMA NORTE ;LIMA 22;Octubre;Masculino;Soltero;Perú;Callao;0;Familia
+205;1966;26;45481540;Puente Piedra;LIMA NORTE ;LIMA 22;Septiembre;Masculino;Soltero;Perú;Cajamarca;0;Viajes
+206;7334;35;43224304;San Borja;LIMA CENTRO ;LIMA 41;Noviembre;Masculino;Soltero;Perú;Loreto;0;Amistades
+207;9723;78;40303518;La Victoria;LIMA CENTRO ;LIMA 13;Febrero;Femenino;Divorciado;Perú;Huánuco;1;Diversión
+208;9486;16;45304741;Jesús María;LIMA CENTRO ;LIMA 11;Septiembre;Masculino;Soltero;Perú;Pasco;0;Amistades
+209;9240;20;44371030;Lince;LIMA CENTRO ;LIMA 14;Marzo;Masculino;Soltero;Perú;Lima (Metropolitana);0;Amistades
+210;8856;69;41545221;Lince;LIMA CENTRO ;LIMA 14;Abril;Femenino;Divorciado;Perú;Tacna;2;Trabajo
+211;1384;42;44902771;San Miguel;LIMA CENTRO ;LIMA 32;Febrero;Masculino;Divorciado;Perú;Lima (Metropolitana);2;Viajes
+212;8455;27;46463439;San Martín de Porres;LIMA NORTE ;LIMA 31;Septiembre;Masculino;Casado;Perú;Callao;4;Viajes
+213;9861;27;45168214;Bellavista;CALLAO ;CALLAO 02;Febrero;Masculino;Casado;Perú;Junín;1;Trabajo
+214;8727;19;40164472;San Juan de Miraflores;LIMA SUR ;LIMA 29;Noviembre;Femenino;Soltero;Perú;Moquegua;0;Diversión
+215;3290;74;43895538;Bellavista;CALLAO ;CALLAO 02;Marzo;Masculino;Viudo;Perú;Huancavelica;1;Diversión
+216;8492;18;42559384;Callao;CALLAO ;CALLAO 01;Febrero;Masculino;Soltero;Perú;Huánuco;0;Viajes
+217;1033;43;49764591;La Victoria;LIMA CENTRO ;LIMA 13;Abril;Masculino;Soltero;Perú;Ucayali;0;Familia
+218;5861;75;41207349;Comas;LIMA NORTE ;LIMA 07;Noviembre;Masculino;Casado;Perú;Apurímac;2;Trabajo
+219;1770;70;41884655;San Bartolo;LIMA SUR ;LIMA 26;Abril;Femenino;Soltero;Perú;Huánuco;0;Trabajo
+220;8047;15;48234496;Santa María del Mar;LIMA SUR ;LIMA 37;Mayo;Masculino;Soltero;Perú;Tumbes;0;Viajes
+221;9245;46;42112948;Punta Negra;LIMA SUR ;LIMA 23;Noviembre;Femenino;Soltero;Perú;Cajamarca;0;Viajes
+222;2631;77;45341318;Barranco;LIMA CENTRO ;LIMA 04;Marzo;Masculino;Casado;Perú;Apurímac;2;Familia
+223;8038;54;41332077;San Martín de Porres;LIMA NORTE ;LIMA 31;Enero;Femenino;Soltero;Perú;Ica;0;Diversión
+224;6630;33;48501298;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Abril;Masculino;Soltero;Perú;Arequipa;0;Trabajo
+225;4018;27;46138839;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Junio;Femenino;Soltero;Perú;Ica;0;Trabajo
+226;2773;22;46146443;Carabayllo;LIMA NORTE ;LIMA 06;Julio;Masculino;Soltero;Perú;Junín;0;Familia
+227;9189;38;49812357;Santa Rosa;LIMA NORTE ;LIMA 38;Octubre;Masculino;Soltero;Perú;La Libertad;0;Amistades
+228;2258;24;49284260;Ate;LIMA ESTE ;LIMA 03;Julio;Masculino;Soltero;Perú;Pasco;0;Viajes
+229;2748;23;42548992;La Victoria;LIMA CENTRO ;LIMA 13;Noviembre;Masculino;Soltero;Perú;Áncash;0;Familia
+230;5715;75;42319247;Rímac;LIMA CENTRO ;LIMA 26;Diciembre;Masculino;Casado;Perú;Huánuco;1;Familia
+231;9153;77;41130132;Los Olivos;LIMA NORTE ;LIMA 39;Septiembre;Femenino;Casado;Perú;Huánuco;1;Viajes
+232;4323;73;49252411;Villa El Salvador;LIMA SUR ;LIMA 42;Mayo;Femenino;Soltero;Perú;San Martín;0;Diversión
+233;2880;21;43460548;San Bartolo;LIMA SUR ;LIMA 26;Abril;Masculino;Soltero;Perú;Huancavelica;0;Familia
+234;1905;50;44412227;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Junio;Femenino;Soltero;Perú;Loreto;0;Trabajo
+235;4107;29;46471501;Pachacámac;LIMA SUR ;LIMA 19;Diciembre;Masculino;Soltero;Perú;Ayacucho;0;Amistades
+236;5491;30;42807342;Villa El Salvador;LIMA SUR ;LIMA 42;Abril;Masculino;Viudo;Perú;Huánuco;1;Viajes
+237;4561;41;40769567;Ate;LIMA ESTE ;LIMA 03;Julio;Femenino;Viudo;Perú;Tacna;2;Amistades
+238;2292;25;45886338;Santa María del Mar;LIMA SUR ;LIMA 37;Junio;Femenino;Divorciado;Perú;Puno;1;Amistades
+239;9061;61;45176240;San Martín de Porres;LIMA NORTE ;LIMA 31;Enero;Femenino;Casado;Perú;Puno;2;Diversión
+240;2997;54;49157431;La Victoria;LIMA CENTRO ;LIMA 13;Agosto;Femenino;Viudo;Perú;Tacna;1;Trabajo
+241;8828;43;47584082;Lima;LIMA CENTRO ;LIMA 01;Abril;Femenino;Viudo;Perú;Cuzco;2;Viajes
+242;7003;33;48361288;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Octubre;Masculino;Viudo;Perú;Huánuco;4;Trabajo
+243;4942;63;48944671;Callao;CALLAO ;CALLAO 01;Agosto;Femenino;Divorciado;Perú;La Libertad;3;Trabajo
+244;8640;38;40414133;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Mayo;Femenino;Casado;Perú;Loreto;2;Amistades
+245;5648;27;41081346;Breña;LIMA CENTRO ;LIMA 05;Junio;Masculino;Divorciado;Perú;Lima (Metropolitana);4;Diversión
+246;2713;32;42816435;Pucusana;LIMA SUR ;LIMA 20;Agosto;Femenino;Casado;Perú;Huancavelica;4;Viajes
+247;7340;32;43411504;San Martín de Porres;LIMA NORTE ;LIMA 31;Febrero;Masculino;Casado;Perú;Tumbes;1;Amistades
+248;3577;36;47169531;El Agustino;LIMA ESTE ;LIMA 10;Septiembre;Masculino;Divorciado;Perú;Amazonas;4;Familia
+249;3447;58;44952024;Lince;LIMA CENTRO ;LIMA 14;Abril;Masculino;Divorciado;Perú;Huánuco;2;Trabajo
+250;3842;79;49839455;Bellavista;CALLAO ;CALLAO 02;Agosto;Masculino;Soltero;Perú;La Libertad;0;Amistades
+251;9814;55;43641479;Callao;CALLAO ;CALLAO 01;Agosto;Femenino;Viudo;Perú;Ica;4;Familia
+252;3957;40;43454585;Puente Piedra;LIMA NORTE ;LIMA 22;Septiembre;Masculino;Casado;Perú;Lima (Provincias);3;Viajes
+253;6879;54;47312655;San Bartolo;LIMA SUR ;LIMA 26;Octubre;Masculino;Viudo;Perú;Pasco;2;Familia
+254;2275;52;48841202;Chorrillos;LIMA SUR ;LIMA 09;Julio;Masculino;Viudo;Perú;Cajamarca;2;Trabajo
+255;7227;31;40795045;Cieneguilla;LIMA ESTE ;LIMA 40;Mayo;Femenino;Soltero;Perú;Tacna;0;Viajes
+256;9156;24;48533956;San Isidro;LIMA CENTRO ;LIMA 27;Junio;Masculino;Soltero;Perú;Tumbes;0;Familia
+257;9172;43;46682878;La Victoria;LIMA CENTRO ;LIMA 13;Julio;Masculino;Divorciado;Perú;Moquegua;4;Viajes
+258;2555;71;49016482;Lurín;LIMA SUR ;LIMA 16;Diciembre;Femenino;Casado;Perú;Arequipa;3;Familia
+259;6206;53;41496345;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Junio;Femenino;Viudo;Perú;Piura;4;Viajes
+260;4783;25;47745609;Carabayllo;LIMA NORTE ;LIMA 06;Noviembre;Masculino;Divorciado;Perú;Lima (Metropolitana);1;Diversión
+261;7975;31;49927394;San Isidro;LIMA CENTRO ;LIMA 27;Junio;Femenino;Divorciado;Perú;Ica;3;Viajes
+262;5561;37;43610428;Santa Rosa;LIMA NORTE ;LIMA 38;Enero;Femenino;Divorciado;Perú;Cuzco;3;Diversión
+263;2323;38;42252233;Santa María del Mar;LIMA SUR ;LIMA 37;Febrero;Masculino;Viudo;Perú;Áncash;4;Trabajo
+264;4012;36;49310971;La Molina;LIMA ESTE ;LIMA 12;Julio;Masculino;Divorciado;Perú;Junín;3;Trabajo
+265;6077;55;46157726;Bellavista;CALLAO ;CALLAO 02;Junio;Masculino;Divorciado;Perú;Lima (Metropolitana);4;Familia
+266;4387;78;45732060;Lince;LIMA CENTRO ;LIMA 14;Enero;Masculino;Divorciado;Perú;Moquegua;3;Viajes
+267;9514;60;49231157;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Diciembre;Masculino;Soltero;Perú;Cajamarca;0;Viajes
+268;8321;38;40065337;Lince;LIMA CENTRO ;LIMA 14;Octubre;Masculino;Casado;Perú;Lambayeque;4;Amistades
+269;3191;79;44355556;San Luis;LIMA ESTE ;LIMA 30;Septiembre;Femenino;Divorciado;Perú;Tumbes;2;Trabajo
+270;6345;40;47986935;Ate;LIMA ESTE ;LIMA 03;Diciembre;Femenino;Casado;Perú;Ayacucho;3;Amistades
+271;3329;74;43336723;Santiago de Surco;LIMA CENTRO ;LIMA 33;Abril;Femenino;Viudo;Perú;Pasco;2;Diversión
+272;3719;55;43615288;Santa María del Mar;LIMA SUR ;LIMA 37;Noviembre;Masculino;Soltero;Perú;Junín;0;Diversión
+273;4924;53;43288485;San Miguel;LIMA CENTRO ;LIMA 32;Mayo;Masculino;Viudo;Perú;Tacna;3;Diversión
+274;5663;45;45438988;Ancón;LIMA NORTE ;LIMA 02;Marzo;Masculino;Viudo;Perú;Piura;3;Diversión
+275;5815;63;46296233;Miraflores;LIMA CENTRO ;LIMA 18;Marzo;Femenino;Soltero;Perú;Ayacucho;0;Trabajo
+276;5238;71;48600170;La Perla;CALLAO ;CALLAO 04;Mayo;Femenino;Divorciado;Perú;Cajamarca;2;Viajes
+277;4566;37;42244695;Independencia;LIMA NORTE ;LIMA 28;Marzo;Masculino;Casado;Perú;Huánuco;2;Amistades
+278;3967;57;44596044;San Borja;LIMA CENTRO ;LIMA 41;Abril;Masculino;Casado;Perú;Amazonas;1;Familia
+279;1715;50;45636044;Ancón;LIMA NORTE ;LIMA 02;Marzo;Femenino;Soltero;Perú;Puno;0;Diversión
+280;9498;39;41932880;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Noviembre;Masculino;Divorciado;Perú;Puno;1;Viajes
+281;9707;36;40866691;Pachacámac;LIMA SUR ;LIMA 19;Enero;Femenino;Viudo;Perú;Tacna;1;Familia
+282;5684;16;43429654;San Borja;LIMA CENTRO ;LIMA 41;Enero;Femenino;Soltero;Perú;Tumbes;0;Amistades
+283;1003;61;40216608;San Luis;LIMA ESTE ;LIMA 30;Octubre;Masculino;Soltero;Perú;Apurímac;0;Viajes
+284;2435;31;41873681;Villa María del Triunfo;LIMA SUR ;LIMA 35;Marzo;Femenino;Soltero;Perú;Piura;0;Trabajo
+285;7745;62;43722486;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Noviembre;Femenino;Viudo;Perú;Áncash;1;Amistades
+286;9699;29;40449170;San Miguel;LIMA CENTRO ;LIMA 32;Marzo;Masculino;Divorciado;Perú;Amazonas;2;Viajes
+287;4720;45;45230477;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Junio;Masculino;Soltero;Perú;Arequipa;0;Familia
+288;2270;35;42974365;Cieneguilla;LIMA ESTE ;LIMA 40;Febrero;Masculino;Viudo;Perú;Huánuco;3;Diversión
+289;6477;41;49888906;Ventanilla;CALLAO ;CALLAO 06;Enero;Masculino;Soltero;Perú;Arequipa;0;Amistades
+290;5837;24;41854479;Pucusana;LIMA SUR ;LIMA 20;Septiembre;Masculino;Soltero;Perú;Ica;0;Diversión
+291;4086;38;49586049;La Perla;CALLAO ;CALLAO 04;Mayo;Femenino;Divorciado;Perú;Callao;1;Viajes
+292;8414;63;42505261;San Miguel;LIMA CENTRO ;LIMA 32;Junio;Masculino;Divorciado;Perú;Callao;3;Viajes
+293;1889;55;45199180;La Punta;CALLAO ;CALLAO 05;Agosto;Femenino;Divorciado;Perú;Apurímac;1;Familia
+294;8404;16;41053442;Villa El Salvador;LIMA SUR ;LIMA 42;Octubre;Femenino;Soltero;Perú;Lima (Provincias);0;Viajes
+295;3402;47;47815693;La Victoria;LIMA CENTRO ;LIMA 13;Septiembre;Masculino;Soltero;Perú;Madre de Dios;0;Familia
+296;4675;71;40059219;Punta Hermosa;LIMA SUR ;LIMA 24;Mayo;Femenino;Casado;Perú;Áncash;3;Amistades
+297;8224;61;47199340;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Mayo;Femenino;Divorciado;Perú;Cuzco;1;Familia
+298;8972;60;42636913;Ate;LIMA ESTE ;LIMA 03;Enero;Femenino;Soltero;Perú;Huánuco;0;Amistades
+299;8822;75;46492531;San Isidro;LIMA CENTRO ;LIMA 27;Febrero;Femenino;Divorciado;Perú;Áncash;4;Familia
+300;6385;35;40572366;Pachacámac;LIMA SUR ;LIMA 19;Septiembre;Femenino;Viudo;Perú;Arequipa;1;Viajes
+301;5688;42;41326692;San Bartolo;LIMA SUR ;LIMA 26;Abril;Masculino;Viudo;Perú;Puno;3;Amistades
+302;3973;38;45141643;Los Olivos;LIMA NORTE ;LIMA 39;Septiembre;Femenino;Soltero;Perú;Ucayali;0;Viajes
+303;3167;50;40626200;Carabayllo;LIMA NORTE ;LIMA 06;Septiembre;Masculino;Soltero;Perú;Arequipa;0;Familia
+304;4829;58;41764833;Jesús María;LIMA CENTRO ;LIMA 11;Abril;Masculino;Soltero;Perú;Junín;0;Trabajo
+305;9412;71;44697826;Ventanilla;CALLAO ;CALLAO 06;Abril;Masculino;Viudo;Perú;Piura;4;Trabajo
+306;4230;75;41609131;Ate;LIMA ESTE ;LIMA 03;Junio;Femenino;Viudo;Perú;Áncash;4;Trabajo
+307;5077;40;46260690;Rímac;LIMA CENTRO ;LIMA 26;Abril;Femenino;Divorciado;Perú;Huancavelica;3;Amistades
+308;6279;18;44145528;Jesús María;LIMA CENTRO ;LIMA 11;Febrero;Femenino;Soltero;Perú;Ica;0;Viajes
+309;5460;21;48336295;Bellavista;CALLAO ;CALLAO 02;Agosto;Femenino;Soltero;Perú;Tacna;0;Viajes
+310;8132;52;49179452;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Diciembre;Masculino;Viudo;Perú;Lima (Provincias);4;Trabajo
+311;4500;33;46658133;Independencia;LIMA NORTE ;LIMA 28;Mayo;Femenino;Viudo;Perú;San Martín;3;Trabajo
+312;9991;39;41142051;San Borja;LIMA CENTRO ;LIMA 41;Diciembre;Femenino;Divorciado;Perú;Cajamarca;2;Diversión
+313;8783;53;43730569;San Bartolo;LIMA SUR ;LIMA 26;Septiembre;Masculino;Soltero;Perú;Junín;0;Trabajo
+314;3246;67;41661266;Santa María del Mar;LIMA SUR ;LIMA 37;Julio;Masculino;Divorciado;Perú;Ucayali;4;Diversión
+315;7857;65;46091956;Chorrillos;LIMA SUR ;LIMA 09;Noviembre;Masculino;Viudo;Perú;Junín;2;Trabajo
+316;8373;14;43729627;Santa Anita;LIMA ESTE ;LIMA 43;Febrero;Masculino;Soltero;Perú;Puno;0;Viajes
+317;3865;14;45770904;La Perla;CALLAO ;CALLAO 04;Junio;Masculino;Soltero;Perú;San Martín;0;Trabajo
+318;3032;47;40427369;Santa Anita;LIMA ESTE ;LIMA 43;Septiembre;Masculino;Viudo;Perú;Puno;1;Viajes
+319;8713;33;40718073;Santa María del Mar;LIMA SUR ;LIMA 37;Noviembre;Femenino;Viudo;Perú;Ica;1;Familia
+320;1933;36;44994817;San Miguel;LIMA CENTRO ;LIMA 32;Mayo;Masculino;Casado;Perú;Moquegua;1;Viajes
+321;7829;41;48726792;Barranco;LIMA CENTRO ;LIMA 04;Abril;Femenino;Casado;Perú;La Libertad;2;Familia
+322;1399;24;47382218;Comas;LIMA NORTE ;LIMA 07;Marzo;Masculino;Soltero;Perú;Huancavelica;0;Trabajo
+323;7876;34;43273457;El Agustino;LIMA ESTE ;LIMA 10;Agosto;Femenino;Divorciado;Perú;Ayacucho;3;Viajes
+324;9256;19;49216735;Cieneguilla;LIMA ESTE ;LIMA 40;Noviembre;Femenino;Soltero;Perú;Áncash;0;Diversión
+325;3274;20;43143078;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Enero;Femenino;Soltero;Perú;Lima (Metropolitana);0;Familia
+326;1570;61;47120586;Bellavista;CALLAO ;CALLAO 02;Septiembre;Femenino;Soltero;Perú;Puno;0;Diversión
+327;4510;79;43335622;San Luis;LIMA ESTE ;LIMA 30;Mayo;Masculino;Casado;Perú;Apurímac;1;Viajes
+328;1083;40;49269806;Puente Piedra;LIMA NORTE ;LIMA 22;Abril;Masculino;Viudo;Perú;Tacna;4;Viajes
+329;6081;19;47832239;Lima;LIMA CENTRO ;LIMA 01;Febrero;Femenino;Soltero;Perú;Callao;0;Diversión
+330;9857;20;49153319;Callao;CALLAO ;CALLAO 01;Abril;Femenino;Soltero;Perú;Áncash;0;Familia
+331;9128;64;45432266;San Luis;LIMA ESTE ;LIMA 30;Noviembre;Femenino;Viudo;Perú;Loreto;3;Amistades
+332;9515;69;44430188;Callao;CALLAO ;CALLAO 01;Septiembre;Femenino;Viudo;Perú;Arequipa;2;Trabajo
+333;5602;51;42894708;San Bartolo;LIMA SUR ;LIMA 26;Noviembre;Femenino;Soltero;Perú;Lambayeque;0;Amistades
+334;4208;30;41809653;Santa Rosa;LIMA NORTE ;LIMA 38;Septiembre;Femenino;Divorciado;Perú;Amazonas;2;Viajes
+335;8688;70;46945652;Independencia;LIMA NORTE ;LIMA 28;Febrero;Femenino;Divorciado;Perú;Tumbes;4;Familia
+336;3415;55;44427684;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Septiembre;Femenino;Divorciado;Perú;Cajamarca;2;Amistades
+337;8283;59;49606440;Punta Negra;LIMA SUR ;LIMA 23;Abril;Masculino;Viudo;Perú;Piura;2;Diversión
+338;7117;49;41824370;Punta Hermosa;LIMA SUR ;LIMA 24;Diciembre;Femenino;Divorciado;Perú;Arequipa;3;Trabajo
+339;1172;66;41121642;Lima;LIMA CENTRO ;LIMA 01;Abril;Masculino;Viudo;Perú;Puno;2;Trabajo
+340;7589;67;49081124;San Borja;LIMA CENTRO ;LIMA 41;Julio;Femenino;Divorciado;Perú;Huánuco;1;Familia
+341;6091;52;44124420;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Septiembre;Femenino;Divorciado;Perú;Madre de Dios;2;Diversión
+342;8839;43;43375602;Barranco;LIMA CENTRO ;LIMA 04;Junio;Masculino;Soltero;Perú;La Libertad;0;Familia
+343;3499;49;43352647;Independencia;LIMA NORTE ;LIMA 28;Febrero;Femenino;Divorciado;Perú;Cajamarca;2;Amistades
+344;6979;15;45556600;Ate;LIMA ESTE ;LIMA 03;Febrero;Femenino;Soltero;Perú;Puno;0;Diversión
+345;5260;50;46836338;Lima;LIMA CENTRO ;LIMA 01;Noviembre;Masculino;Viudo;Perú;Ica;4;Trabajo
+346;3070;43;41172479;Surquillo;LIMA CENTRO ;LIMA 34;Octubre;Masculino;Soltero;Perú;Cuzco;0;Diversión
+347;4238;14;49122174;San Borja;LIMA CENTRO ;LIMA 41;Mayo;Femenino;Soltero;Perú;Lima (Metropolitana);0;Diversión
+348;9696;63;40603700;Bellavista;CALLAO ;CALLAO 02;Agosto;Femenino;Viudo;Perú;Huánuco;4;Viajes
+349;1941;55;49596231;La Punta;CALLAO ;CALLAO 05;Marzo;Femenino;Casado;Perú;Moquegua;3;Diversión
+350;9599;16;42005287;Carabayllo;LIMA NORTE ;LIMA 06;Septiembre;Femenino;Soltero;Perú;Ica;0;Amistades
+351;8754;53;44083436;Santa María del Mar;LIMA SUR ;LIMA 37;Octubre;Masculino;Divorciado;Perú;Huánuco;1;Viajes
+352;8740;72;43954965;Lurín;LIMA SUR ;LIMA 16;Octubre;Femenino;Divorciado;Perú;Huancavelica;1;Diversión
+353;6362;60;44777823;Santiago de Surco;LIMA CENTRO ;LIMA 33;Junio;Femenino;Viudo;Perú;Tumbes;4;Diversión
+354;6876;30;41844861;La Molina;LIMA ESTE ;LIMA 12;Enero;Femenino;Divorciado;Perú;Tacna;4;Viajes
+355;9712;23;41430036;Cieneguilla;LIMA ESTE ;LIMA 40;Diciembre;Masculino;Soltero;Perú;Madre de Dios;0;Viajes
+356;8900;63;46629897;Santa Rosa;LIMA NORTE ;LIMA 38;Octubre;Femenino;Soltero;Perú;Puno;0;Trabajo
+357;8504;51;49975254;Los Olivos;LIMA NORTE ;LIMA 39;Noviembre;Femenino;Viudo;Perú;Tacna;4;Amistades
+358;4429;70;44905027;Los Olivos;LIMA NORTE ;LIMA 39;Mayo;Femenino;Viudo;Perú;Ayacucho;1;Familia
+359;1050;41;40590502;La Perla;CALLAO ;CALLAO 04;Mayo;Femenino;Casado;Perú;La Libertad;3;Trabajo
+360;6192;62;43805004;Breña;LIMA CENTRO ;LIMA 05;Abril;Femenino;Viudo;Perú;Lambayeque;4;Viajes
+361;8216;69;43798778;Santa Anita;LIMA ESTE ;LIMA 43;Diciembre;Femenino;Soltero;Perú;Ayacucho;0;Familia
+362;9162;59;49985458;Los Olivos;LIMA NORTE ;LIMA 39;Octubre;Femenino;Viudo;Perú;Moquegua;2;Viajes
+363;5831;26;47256488;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Febrero;Femenino;Casado;Perú;Callao;4;Trabajo
+364;9030;70;43010604;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Junio;Femenino;Viudo;Perú;Amazonas;2;Familia
+365;3026;54;43760652;Jesús María;LIMA CENTRO ;LIMA 11;Octubre;Femenino;Viudo;Perú;Cuzco;1;Trabajo
+366;8918;32;44201429;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Mayo;Masculino;Viudo;Perú;Arequipa;2;Amistades
+367;5473;45;44846330;Santa María del Mar;LIMA SUR ;LIMA 37;Julio;Masculino;Soltero;Perú;Cajamarca;0;Viajes
+368;4039;27;43908866;Punta Hermosa;LIMA SUR ;LIMA 24;Mayo;Femenino;Viudo;Perú;Amazonas;2;Trabajo
+369;1539;39;49638518;Cieneguilla;LIMA ESTE ;LIMA 40;Junio;Masculino;Soltero;Perú;Tumbes;0;Diversión
+370;3707;18;48739940;El Agustino;LIMA ESTE ;LIMA 10;Diciembre;Masculino;Soltero;Perú;Huancavelica;0;Amistades
+371;4134;78;49466605;San Miguel;LIMA CENTRO ;LIMA 32;Febrero;Masculino;Casado;Perú;Moquegua;4;Trabajo
+372;9297;41;45517309;San Bartolo;LIMA SUR ;LIMA 26;Mayo;Femenino;Viudo;Perú;Tumbes;4;Viajes
+373;4745;16;49111736;Santa María del Mar;LIMA SUR ;LIMA 37;Agosto;Masculino;Soltero;Perú;Lima (Provincias);0;Trabajo
+374;8935;14;48134261;Villa El Salvador;LIMA SUR ;LIMA 42;Enero;Femenino;Soltero;Perú;Tacna;0;Familia
+375;1658;79;40271330;Puente Piedra;LIMA NORTE ;LIMA 22;Diciembre;Masculino;Divorciado;Perú;Ucayali;1;Trabajo
+376;7694;45;43060036;Villa María del Triunfo;LIMA SUR ;LIMA 35;Enero;Femenino;Soltero;Perú;Lambayeque;0;Familia
+377;9453;42;45151567;San Luis;LIMA ESTE ;LIMA 30;Mayo;Masculino;Divorciado;Perú;Moquegua;1;Diversión
+378;1879;51;45384665;Santiago de Surco;LIMA CENTRO ;LIMA 33;Abril;Masculino;Casado;Perú;Apurímac;1;Familia
+379;4405;18;40432986;Santa María del Mar;LIMA SUR ;LIMA 37;Diciembre;Masculino;Soltero;Perú;Puno;0;Viajes
+380;7284;37;41537952;Santa Rosa;LIMA NORTE ;LIMA 38;Diciembre;Masculino;Casado;Perú;Lima (Metropolitana);2;Familia
+381;5062;20;45650860;Santiago de Surco;LIMA CENTRO ;LIMA 33;Julio;Masculino;Soltero;Perú;Cajamarca;0;Diversión
+382;1380;18;45351711;La Victoria;LIMA CENTRO ;LIMA 13;Noviembre;Femenino;Soltero;Perú;Loreto;0;Diversión
+383;3866;49;45641808;Rímac;LIMA CENTRO ;LIMA 26;Abril;Masculino;Soltero;Perú;Huancavelica;0;Viajes
+384;1726;38;43732263;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Septiembre;Masculino;Soltero;Perú;Piura;0;Diversión
+385;5586;78;44011174;La Punta;CALLAO ;CALLAO 05;Diciembre;Masculino;Casado;Perú;Lima (Provincias);2;Viajes
+386;6188;58;46063884;Breña;LIMA CENTRO ;LIMA 05;Junio;Masculino;Viudo;Perú;Huánuco;3;Viajes
+387;4389;42;41368985;Santa María del Mar;LIMA SUR ;LIMA 37;Febrero;Masculino;Soltero;Perú;Cuzco;0;Diversión
+388;3321;38;48477014;Villa María del Triunfo;LIMA SUR ;LIMA 35;Julio;Masculino;Soltero;Perú;Ucayali;0;Familia
+389;4868;45;40010286;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Diciembre;Masculino;Casado;Perú;Pasco;2;Diversión
+390;8607;46;45437778;San Bartolo;LIMA SUR ;LIMA 26;Noviembre;Masculino;Viudo;Perú;Callao;2;Trabajo
+391;4740;72;40768279;Lima;LIMA CENTRO ;LIMA 01;Julio;Femenino;Divorciado;Perú;Moquegua;3;Trabajo
+392;3875;72;43825029;Villa María del Triunfo;LIMA SUR ;LIMA 35;Octubre;Masculino;Viudo;Perú;Lima (Metropolitana);1;Diversión
+393;8031;60;48517899;Villa María del Triunfo;LIMA SUR ;LIMA 35;Enero;Femenino;Viudo;Perú;Cuzco;2;Trabajo
+394;7179;45;40532802;Comas;LIMA NORTE ;LIMA 07;Diciembre;Femenino;Divorciado;Perú;Ucayali;4;Viajes
+395;5812;62;46090576;Independencia;LIMA NORTE ;LIMA 28;Septiembre;Femenino;Viudo;Perú;Tumbes;3;Diversión
+396;3538;44;41153737;Pucusana;LIMA SUR ;LIMA 20;Febrero;Masculino;Viudo;Perú;Loreto;1;Trabajo
+397;5630;22;48424786;Villa El Salvador;LIMA SUR ;LIMA 42;Julio;Femenino;Soltero;Perú;Amazonas;0;Familia
+398;5104;24;49320215;Lurín;LIMA SUR ;LIMA 16;Diciembre;Femenino;Soltero;Perú;Ica;0;Familia
+399;8673;49;45153398;Villa María del Triunfo;LIMA SUR ;LIMA 35;Diciembre;Masculino;Viudo;Perú;Tacna;2;Amistades
+400;9845;22;40041694;La Punta;CALLAO ;CALLAO 05;Diciembre;Masculino;Soltero;Perú;Áncash;0;Diversión
+401;8977;24;45446540;Comas;LIMA NORTE ;LIMA 07;Junio;Masculino;Soltero;Perú;Tumbes;0;Viajes
+402;3571;49;41341991;San Luis;LIMA ESTE ;LIMA 30;Abril;Masculino;Soltero;Perú;Ica;0;Trabajo
+403;3751;75;46180369;Surquillo;LIMA CENTRO ;LIMA 34;Enero;Femenino;Casado;Perú;Cuzco;1;Diversión
+404;7035;22;40317920;Bellavista;CALLAO ;CALLAO 02;Octubre;Masculino;Soltero;Perú;Arequipa;0;Diversión
+405;7316;69;47742919;Barranco;LIMA CENTRO ;LIMA 04;Abril;Femenino;Soltero;Perú;Ucayali;0;Viajes
+406;4541;66;40603574;Lima;LIMA CENTRO ;LIMA 01;Junio;Femenino;Divorciado;Perú;Callao;1;Diversión
+407;3704;64;41153188;Pachacámac;LIMA SUR ;LIMA 19;Septiembre;Masculino;Casado;Perú;Áncash;1;Viajes
+408;7254;34;42921274;Pueblo Libre;LIMA CENTRO ;LIMA 21;Diciembre;Femenino;Soltero;Perú;Puno;0;Familia
+409;8583;75;46606589;Lima;LIMA CENTRO ;LIMA 01;Julio;Femenino;Viudo;Perú;Puno;4;Amistades
+410;5305;56;44406959;Lince;LIMA CENTRO ;LIMA 14;Octubre;Femenino;Soltero;Perú;Madre de Dios;0;Familia
+411;3654;59;48364282;Los Olivos;LIMA NORTE ;LIMA 39;Enero;Masculino;Soltero;Perú;Huancavelica;0;Amistades
+412;1902;54;45987828;Los Olivos;LIMA NORTE ;LIMA 39;Septiembre;Femenino;Casado;Perú;Puno;2;Viajes
+413;6402;24;46381423;Comas;LIMA NORTE ;LIMA 07;Enero;Femenino;Soltero;Perú;Huancavelica;0;Trabajo
+414;4901;63;41064525;Jesús María;LIMA CENTRO ;LIMA 11;Marzo;Masculino;Casado;Perú;Huancavelica;4;Trabajo
+415;7095;48;41945823;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Enero;Femenino;Viudo;Perú;Apurímac;4;Diversión
+416;7725;25;48958457;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Agosto;Femenino;Soltero;Perú;Callao;0;Familia
+417;2339;72;41027389;Independencia;LIMA NORTE ;LIMA 28;Agosto;Femenino;Soltero;Perú;Junín;0;Trabajo
+418;2453;25;48334151;Punta Hermosa;LIMA SUR ;LIMA 24;Diciembre;Femenino;Casado;Perú;Tumbes;2;Familia
+419;8043;53;42515114;El Agustino;LIMA ESTE ;LIMA 10;Junio;Femenino;Viudo;Perú;Ica;3;Familia
+420;3683;61;48895163;Lurín;LIMA SUR ;LIMA 16;Febrero;Femenino;Viudo;Perú;Lima (Provincias);2;Familia
+421;1258;16;45093175;Independencia;LIMA NORTE ;LIMA 28;Marzo;Femenino;Soltero;Perú;Callao;0;Viajes
+422;7766;43;47083619;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Mayo;Femenino;Soltero;Perú;Apurímac;0;Diversión
+423;3468;43;46157789;Cieneguilla;LIMA ESTE ;LIMA 40;Abril;Masculino;Casado;Perú;Huánuco;2;Familia
+424;9381;51;48725569;Villa El Salvador;LIMA SUR ;LIMA 42;Diciembre;Masculino;Viudo;Perú;Puno;1;Diversión
+425;2906;44;43184997;Ate;LIMA ESTE ;LIMA 03;Enero;Masculino;Divorciado;Perú;Ayacucho;1;Viajes
+426;1740;76;44085179;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Abril;Masculino;Soltero;Perú;Huánuco;0;Familia
+427;3938;49;44182120;Miraflores;LIMA CENTRO ;LIMA 18;Agosto;Femenino;Viudo;Perú;Amazonas;3;Diversión
+428;7275;14;41278614;Callao;CALLAO ;CALLAO 01;Mayo;Masculino;Soltero;Perú;Huancavelica;0;Trabajo
+429;6946;27;49588774;Punta Hermosa;LIMA SUR ;LIMA 24;Noviembre;Femenino;Casado;Perú;Piura;4;Trabajo
+430;7758;25;49253575;San Bartolo;LIMA SUR ;LIMA 26;Junio;Femenino;Casado;Perú;Junín;4;Familia
+431;9196;16;44824558;Independencia;LIMA NORTE ;LIMA 28;Mayo;Masculino;Soltero;Perú;San Martín;0;Familia
+432;2547;36;43454322;Lima;LIMA CENTRO ;LIMA 01;Agosto;Masculino;Divorciado;Perú;Huánuco;2;Amistades
+433;9442;58;46394768;San Juan de Miraflores;LIMA SUR ;LIMA 29;Enero;Masculino;Viudo;Perú;San Martín;1;Diversión
+434;1449;54;42073843;Los Olivos;LIMA NORTE ;LIMA 39;Noviembre;Masculino;Divorciado;Perú;Huánuco;4;Familia
+435;4356;57;46699861;San Martín de Porres;LIMA NORTE ;LIMA 31;Marzo;Masculino;Divorciado;Perú;Amazonas;1;Diversión
+436;2984;25;49103563;Jesús María;LIMA CENTRO ;LIMA 11;Julio;Masculino;Viudo;Perú;Áncash;2;Diversión
+437;2424;47;49742340;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Diciembre;Masculino;Divorciado;Perú;Moquegua;4;Amistades
+438;3381;76;47597736;San Miguel;LIMA CENTRO ;LIMA 32;Abril;Masculino;Casado;Perú;Huánuco;1;Trabajo
+439;1747;29;45185834;Callao;CALLAO ;CALLAO 01;Enero;Femenino;Casado;Perú;Cuzco;2;Familia
+440;7606;60;49838529;Carabayllo;LIMA NORTE ;LIMA 06;Enero;Femenino;Casado;Perú;Tacna;1;Diversión
+441;7700;61;44937581;Carabayllo;LIMA NORTE ;LIMA 06;Junio;Masculino;Casado;Perú;Loreto;2;Trabajo
+442;5213;15;43823860;Santa Rosa;LIMA NORTE ;LIMA 38;Noviembre;Masculino;Soltero;Perú;Pasco;0;Viajes
+443;8634;55;41938058;Punta Hermosa;LIMA SUR ;LIMA 24;Septiembre;Masculino;Casado;Perú;La Libertad;1;Familia
+444;1639;16;42166164;Barranco;LIMA CENTRO ;LIMA 04;Noviembre;Femenino;Soltero;Perú;Lambayeque;0;Amistades
+445;3213;67;45436437;Ancón;LIMA NORTE ;LIMA 02;Septiembre;Masculino;Casado;Perú;Arequipa;1;Viajes
+446;7530;20;41874456;Miraflores;LIMA CENTRO ;LIMA 18;Febrero;Masculino;Soltero;Perú;Madre de Dios;0;Viajes
+447;7377;42;49555964;La Perla;CALLAO ;CALLAO 04;Agosto;Masculino;Soltero;Perú;Ica;0;Trabajo
+448;9854;63;44636823;Surquillo;LIMA CENTRO ;LIMA 34;Noviembre;Femenino;Soltero;Perú;Arequipa;0;Amistades
+449;5290;46;48067496;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Abril;Femenino;Viudo;Perú;Tumbes;3;Viajes
+450;8067;19;40365511;Pueblo Libre;LIMA CENTRO ;LIMA 21;Enero;Masculino;Soltero;Perú;Tumbes;0;Trabajo
+451;1419;33;45379146;Comas;LIMA NORTE ;LIMA 07;Febrero;Femenino;Divorciado;Perú;Cuzco;2;Familia
+452;4374;37;41542123;Surquillo;LIMA CENTRO ;LIMA 34;Septiembre;Masculino;Divorciado;Perú;Loreto;2;Diversión
+453;2065;77;44770586;Cieneguilla;LIMA ESTE ;LIMA 40;Abril;Femenino;Viudo;Perú;Áncash;4;Trabajo
+454;4537;47;45849354;Santa Anita;LIMA ESTE ;LIMA 43;Octubre;Masculino;Viudo;Perú;Cajamarca;1;Viajes
+455;5805;59;45748332;Surquillo;LIMA CENTRO ;LIMA 34;Marzo;Femenino;Viudo;Perú;Lima (Provincias);2;Viajes
+456;1453;36;44401216;Cieneguilla;LIMA ESTE ;LIMA 40;Octubre;Masculino;Viudo;Perú;Lima (Provincias);3;Trabajo
+457;8089;35;47491709;San Martín de Porres;LIMA NORTE ;LIMA 31;Marzo;Masculino;Soltero;Perú;Callao;0;Viajes
+458;4481;19;46694960;San Isidro;LIMA CENTRO ;LIMA 27;Enero;Masculino;Soltero;Perú;Loreto;0;Trabajo
+459;1394;41;41998176;Punta Negra;LIMA SUR ;LIMA 23;Agosto;Femenino;Divorciado;Perú;Puno;2;Trabajo
+460;6896;65;43878957;Ate;LIMA ESTE ;LIMA 03;Mayo;Femenino;Soltero;Perú;Huánuco;0;Amistades
+461;3209;58;46940230;La Perla;CALLAO ;CALLAO 04;Julio;Masculino;Casado;Perú;Tumbes;3;Viajes
+462;6473;16;48871873;Villa María del Triunfo;LIMA SUR ;LIMA 35;Diciembre;Femenino;Soltero;Perú;Huancavelica;0;Viajes
+463;7565;20;47559076;Rímac;LIMA CENTRO ;LIMA 26;Marzo;Femenino;Soltero;Perú;Huancavelica;0;Amistades
+464;6316;44;48649776;Pucusana;LIMA SUR ;LIMA 20;Septiembre;Masculino;Viudo;Perú;Amazonas;2;Amistades
+465;3593;68;49405870;Rímac;LIMA CENTRO ;LIMA 26;Febrero;Masculino;Divorciado;Perú;Pasco;3;Viajes
+466;5571;15;47943752;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Octubre;Femenino;Soltero;Perú;Callao;0;Diversión
+467;1183;17;44163642;Surquillo;LIMA CENTRO ;LIMA 34;Febrero;Masculino;Soltero;Perú;Huancavelica;0;Diversión
+468;9587;72;40573609;San Isidro;LIMA CENTRO ;LIMA 27;Junio;Masculino;Soltero;Perú;Moquegua;0;Diversión
+469;9460;42;48758424;San Martín de Porres;LIMA NORTE ;LIMA 31;Julio;Masculino;Viudo;Perú;Piura;4;Amistades
+470;8332;15;42027500;Jesús María;LIMA CENTRO ;LIMA 11;Abril;Masculino;Soltero;Perú;Tacna;0;Viajes
+471;8829;43;42469377;Cieneguilla;LIMA ESTE ;LIMA 40;Junio;Femenino;Viudo;Perú;Tacna;3;Familia
+472;7384;32;41279816;La Victoria;LIMA CENTRO ;LIMA 13;Octubre;Femenino;Casado;Perú;Loreto;4;Trabajo
+473;8835;73;45072650;Santiago de Surco;LIMA CENTRO ;LIMA 33;Octubre;Masculino;Divorciado;Perú;Ucayali;4;Diversión
+474;9298;74;43419611;La Perla;CALLAO ;CALLAO 04;Mayo;Femenino;Divorciado;Perú;Huánuco;3;Diversión
+475;7817;76;46133217;Ate;LIMA ESTE ;LIMA 03;Agosto;Masculino;Divorciado;Perú;Huánuco;1;Diversión
+476;2930;47;46584386;Miraflores;LIMA CENTRO ;LIMA 18;Noviembre;Masculino;Divorciado;Perú;Lima (Metropolitana);3;Amistades
+477;1032;68;44459480;Ventanilla;CALLAO ;CALLAO 06;Mayo;Masculino;Casado;Perú;Huancavelica;2;Familia
+478;2420;65;41318540;Barranco;LIMA CENTRO ;LIMA 04;Enero;Masculino;Divorciado;Perú;Huánuco;2;Trabajo
+479;2592;69;42761768;La Punta;CALLAO ;CALLAO 05;Julio;Femenino;Soltero;Perú;San Martín;0;Familia
+480;7648;31;41087325;Breña;LIMA CENTRO ;LIMA 05;Abril;Femenino;Divorciado;Perú;Piura;2;Diversión
+481;8052;54;42527973;Jesús María;LIMA CENTRO ;LIMA 11;Octubre;Masculino;Casado;Perú;Ica;2;Familia
+482;8995;59;40524134;Chorrillos;LIMA SUR ;LIMA 09;Abril;Masculino;Divorciado;Perú;Piura;2;Familia
+483;7524;59;45481440;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Marzo;Masculino;Casado;Perú;Piura;3;Diversión
+484;3748;67;47727383;Punta Hermosa;LIMA SUR ;LIMA 24;Enero;Femenino;Casado;Perú;Loreto;2;Trabajo
+485;6889;30;47267904;Independencia;LIMA NORTE ;LIMA 28;Abril;Masculino;Casado;Perú;Huánuco;3;Diversión
+486;9345;68;48878068;Surquillo;LIMA CENTRO ;LIMA 34;Enero;Femenino;Divorciado;Perú;Junín;3;Diversión
+487;9840;77;48776938;La Perla;CALLAO ;CALLAO 04;Mayo;Femenino;Casado;Perú;Ucayali;4;Familia
+488;6101;51;47865571;Los Olivos;LIMA NORTE ;LIMA 39;Septiembre;Masculino;Viudo;Perú;Tacna;1;Trabajo
+489;5606;75;43288801;Punta Negra;LIMA SUR ;LIMA 23;Diciembre;Masculino;Divorciado;Perú;Apurímac;3;Trabajo
+490;8720;67;47850793;La Molina;LIMA ESTE ;LIMA 12;Septiembre;Femenino;Soltero;Perú;Lima (Metropolitana);0;Viajes
+491;7253;73;48007463;La Punta;CALLAO ;CALLAO 05;Agosto;Femenino;Casado;Perú;Piura;2;Viajes
+492;7976;20;44972727;San Bartolo;LIMA SUR ;LIMA 26;Junio;Masculino;Soltero;Perú;Lambayeque;0;Viajes
+493;6413;32;47974654;Ventanilla;CALLAO ;CALLAO 06;Junio;Masculino;Casado;Perú;Cuzco;1;Amistades
+494;5607;56;48216977;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Junio;Femenino;Divorciado;Perú;Tacna;1;Trabajo
+495;9329;70;46121635;Lince;LIMA CENTRO ;LIMA 14;Marzo;Masculino;Divorciado;Perú;Ayacucho;3;Trabajo
+496;4760;56;43068193;Miraflores;LIMA CENTRO ;LIMA 18;Abril;Femenino;Soltero;Perú;Puno;0;Amistades
+497;7592;69;47076244;Breña;LIMA CENTRO ;LIMA 05;Julio;Femenino;Casado;Perú;Pasco;4;Amistades
+498;6912;34;44781096;Comas;LIMA NORTE ;LIMA 07;Septiembre;Masculino;Soltero;Perú;Ayacucho;0;Trabajo
+499;4099;16;45367193;Pucusana;LIMA SUR ;LIMA 20;Octubre;Femenino;Soltero;Perú;Moquegua;0;Trabajo
+500;3828;45;45348661;San Martín de Porres;LIMA NORTE ;LIMA 31;Julio;Femenino;Casado;Perú;Puno;4;Amistades
+501;6748;57;41438171;San Juan de Miraflores;LIMA SUR ;LIMA 29;Agosto;Masculino;Divorciado;Perú;Pasco;2;Amistades
+502;8884;66;45294382;Pachacámac;LIMA SUR ;LIMA 19;Mayo;Femenino;Viudo;Perú;Tacna;4;Diversión
+503;3870;30;49408202;San Luis;LIMA ESTE ;LIMA 30;Marzo;Femenino;Casado;Perú;Apurímac;3;Amistades
+504;9834;34;40826434;Callao;CALLAO ;CALLAO 01;Abril;Femenino;Casado;Perú;Tacna;1;Diversión
+505;5993;24;43137634;La Victoria;LIMA CENTRO ;LIMA 13;Julio;Masculino;Soltero;Perú;Apurímac;0;Viajes
+506;9026;61;47266029;Santa Rosa;LIMA NORTE ;LIMA 38;Enero;Femenino;Viudo;Perú;Ica;1;Amistades
+507;6935;33;49788929;San Bartolo;LIMA SUR ;LIMA 26;Diciembre;Femenino;Casado;Perú;Junín;3;Viajes
+508;9192;46;48197613;Cieneguilla;LIMA ESTE ;LIMA 40;Junio;Masculino;Soltero;Perú;La Libertad;0;Familia
+509;4721;15;49898555;Breña;LIMA CENTRO ;LIMA 05;Septiembre;Masculino;Soltero;Perú;Ucayali;0;Familia
+510;7633;62;43924440;Lima;LIMA CENTRO ;LIMA 01;Abril;Femenino;Viudo;Perú;Ucayali;4;Trabajo
+511;8870;47;46588436;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Enero;Femenino;Divorciado;Perú;Loreto;4;Familia
+512;7379;26;48232024;Pachacámac;LIMA SUR ;LIMA 19;Junio;Masculino;Soltero;Perú;Loreto;0;Viajes
+513;8848;60;47020910;San Isidro;LIMA CENTRO ;LIMA 27;Septiembre;Femenino;Soltero;Perú;Huánuco;0;Amistades
+514;9120;61;49303868;Ventanilla;CALLAO ;CALLAO 06;Junio;Femenino;Divorciado;Perú;San Martín;3;Amistades
+515;6543;75;41716993;Chorrillos;LIMA SUR ;LIMA 09;Julio;Femenino;Divorciado;Perú;Junín;2;Amistades
+516;5490;73;46147139;Lima;LIMA CENTRO ;LIMA 01;Marzo;Femenino;Soltero;Perú;Moquegua;0;Viajes
+517;1405;38;48427445;Jesús María;LIMA CENTRO ;LIMA 11;Diciembre;Masculino;Divorciado;Perú;Ayacucho;4;Diversión
+518;6593;75;49646379;Santiago de Surco;LIMA CENTRO ;LIMA 33;Diciembre;Femenino;Divorciado;Perú;Loreto;4;Trabajo
+519;7164;74;41412584;Chorrillos;LIMA SUR ;LIMA 09;Mayo;Masculino;Viudo;Perú;Arequipa;3;Trabajo
+520;8239;56;47451508;Comas;LIMA NORTE ;LIMA 07;Marzo;Masculino;Soltero;Perú;Piura;0;Trabajo
+521;1379;32;43395170;Chorrillos;LIMA SUR ;LIMA 09;Noviembre;Femenino;Divorciado;Perú;Puno;1;Familia
+522;6484;43;46591150;El Agustino;LIMA ESTE ;LIMA 10;Julio;Femenino;Viudo;Perú;Madre de Dios;2;Amistades
+523;7863;27;43030256;San Bartolo;LIMA SUR ;LIMA 26;Agosto;Masculino;Viudo;Perú;Loreto;1;Viajes
+524;3040;70;44508784;Chorrillos;LIMA SUR ;LIMA 09;Septiembre;Masculino;Casado;Perú;La Libertad;3;Amistades
+525;7710;39;44729535;Pueblo Libre;LIMA CENTRO ;LIMA 21;Mayo;Masculino;Casado;Perú;Lima (Provincias);2;Familia
+526;7037;21;47408405;Pucusana;LIMA SUR ;LIMA 20;Julio;Masculino;Soltero;Perú;Huánuco;0;Trabajo
+527;8498;25;43725024;Los Olivos;LIMA NORTE ;LIMA 39;Enero;Masculino;Casado;Perú;Lima (Metropolitana);1;Viajes
+528;2794;44;47785823;El Agustino;LIMA ESTE ;LIMA 10;Julio;Femenino;Viudo;Perú;Cuzco;3;Amistades
+529;6974;17;42703804;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Marzo;Masculino;Soltero;Perú;Callao;0;Viajes
+530;5511;43;42710426;Pachacámac;LIMA SUR ;LIMA 19;Febrero;Masculino;Casado;Perú;Pasco;4;Trabajo
+531;4247;56;43635231;Santa Rosa;LIMA NORTE ;LIMA 38;Marzo;Masculino;Viudo;Perú;Cajamarca;3;Diversión
+532;2630;42;47376999;San Martín de Porres;LIMA NORTE ;LIMA 31;Diciembre;Masculino;Divorciado;Perú;Lambayeque;1;Viajes
+533;9411;44;45949412;La Molina;LIMA ESTE ;LIMA 12;Diciembre;Masculino;Casado;Perú;San Martín;1;Trabajo
+534;3988;41;44183263;Comas;LIMA NORTE ;LIMA 07;Octubre;Masculino;Divorciado;Perú;Ucayali;3;Diversión
+535;5057;57;44974524;La Molina;LIMA ESTE ;LIMA 12;Agosto;Femenino;Divorciado;Perú;Apurímac;1;Diversión
+536;7246;19;45452826;Ate;LIMA ESTE ;LIMA 03;Diciembre;Femenino;Soltero;Perú;Pasco;0;Diversión
+537;8226;30;48253861;Comas;LIMA NORTE ;LIMA 07;Julio;Femenino;Viudo;Perú;Lima (Provincias);4;Familia
+538;8794;61;43541382;Santa María del Mar;LIMA SUR ;LIMA 37;Enero;Masculino;Divorciado;Perú;Callao;1;Viajes
+539;2749;21;40978273;Pueblo Libre;LIMA CENTRO ;LIMA 21;Agosto;Masculino;Soltero;Perú;Madre de Dios;0;Amistades
+540;2207;39;49556960;Barranco;LIMA CENTRO ;LIMA 04;Mayo;Masculino;Divorciado;Perú;Apurímac;4;Diversión
+541;5413;36;48973124;Rímac;LIMA CENTRO ;LIMA 26;Noviembre;Femenino;Soltero;Perú;Cajamarca;0;Diversión
+542;4560;36;40771978;Miraflores;LIMA CENTRO ;LIMA 18;Mayo;Masculino;Viudo;Perú;Cajamarca;4;Familia
+543;8077;26;48389418;Santa Rosa;LIMA NORTE ;LIMA 38;Octubre;Femenino;Casado;Perú;San Martín;2;Viajes
+544;6174;14;48273415;Chorrillos;LIMA SUR ;LIMA 09;Agosto;Masculino;Soltero;Perú;San Martín;0;Amistades
+545;4129;33;46197210;Ate;LIMA ESTE ;LIMA 03;Agosto;Femenino;Divorciado;Perú;Callao;4;Viajes
+546;9187;59;44769531;Independencia;LIMA NORTE ;LIMA 28;Septiembre;Femenino;Soltero;Perú;Loreto;0;Amistades
+547;7561;41;48536557;La Punta;CALLAO ;CALLAO 05;Mayo;Masculino;Divorciado;Perú;San Martín;1;Familia
+548;7166;33;46062636;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Septiembre;Femenino;Viudo;Perú;La Libertad;3;Diversión
+549;5999;76;44974274;Ate;LIMA ESTE ;LIMA 03;Abril;Masculino;Casado;Perú;Moquegua;1;Diversión
+550;9570;69;40404390;Villa María del Triunfo;LIMA SUR ;LIMA 35;Agosto;Masculino;Casado;Perú;Lima (Provincias);3;Amistades
+551;2952;26;44165968;Callao;CALLAO ;CALLAO 01;Mayo;Masculino;Casado;Perú;Ica;2;Viajes
+552;2370;25;47000911;Pachacámac;LIMA SUR ;LIMA 19;Marzo;Femenino;Soltero;Perú;Áncash;0;Amistades
+553;2071;51;44396637;Rímac;LIMA CENTRO ;LIMA 26;Noviembre;Femenino;Divorciado;Perú;Tacna;1;Viajes
+554;4219;55;48666908;Villa El Salvador;LIMA SUR ;LIMA 42;Abril;Masculino;Divorciado;Perú;Moquegua;2;Trabajo
+555;4813;54;43874353;San Bartolo;LIMA SUR ;LIMA 26;Abril;Masculino;Casado;Perú;Lima (Metropolitana);4;Viajes
+556;1201;15;42681631;Rímac;LIMA CENTRO ;LIMA 26;Diciembre;Masculino;Soltero;Perú;Madre de Dios;0;Viajes
+557;7678;79;47680275;Ventanilla;CALLAO ;CALLAO 06;Mayo;Femenino;Divorciado;Perú;Tacna;1;Familia
+558;8775;46;40748368;San Borja;LIMA CENTRO ;LIMA 41;Diciembre;Masculino;Casado;Perú;Lima (Provincias);1;Amistades
+559;1362;27;47672720;Santa María del Mar;LIMA SUR ;LIMA 37;Febrero;Femenino;Soltero;Perú;Lima (Metropolitana);0;Amistades
+560;3564;15;42849821;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Agosto;Femenino;Soltero;Perú;Ucayali;0;Viajes
+561;9429;69;45108430;Rímac;LIMA CENTRO ;LIMA 26;Octubre;Masculino;Divorciado;Perú;Arequipa;4;Viajes
+562;4290;78;46431231;Independencia;LIMA NORTE ;LIMA 28;Enero;Femenino;Soltero;Perú;Loreto;0;Trabajo
+563;5535;56;49550850;Pachacámac;LIMA SUR ;LIMA 19;Junio;Masculino;Divorciado;Perú;Amazonas;4;Amistades
+564;7091;19;49091326;Miraflores;LIMA CENTRO ;LIMA 18;Marzo;Femenino;Soltero;Perú;Cajamarca;0;Diversión
+565;1085;47;41278899;La Punta;CALLAO ;CALLAO 05;Enero;Masculino;Viudo;Perú;Tumbes;1;Diversión
+566;1291;33;48773578;San Luis;LIMA ESTE ;LIMA 30;Diciembre;Femenino;Casado;Perú;San Martín;4;Viajes
+567;4460;78;48741730;Surquillo;LIMA CENTRO ;LIMA 34;Octubre;Femenino;Divorciado;Perú;Huánuco;3;Trabajo
+568;6271;35;49224620;San Bartolo;LIMA SUR ;LIMA 26;Diciembre;Femenino;Soltero;Perú;Tumbes;0;Viajes
+569;4312;56;45807851;San Martín de Porres;LIMA NORTE ;LIMA 31;Julio;Femenino;Soltero;Perú;Lima (Metropolitana);0;Diversión
+570;2259;17;42485351;San Martín de Porres;LIMA NORTE ;LIMA 31;Agosto;Masculino;Soltero;Perú;Cuzco;0;Familia
+571;4915;49;42072993;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Abril;Femenino;Viudo;Perú;Puno;2;Amistades
+572;9837;35;44406308;San Borja;LIMA CENTRO ;LIMA 41;Junio;Masculino;Divorciado;Perú;Cajamarca;4;Viajes
+573;5680;19;40594391;Pueblo Libre;LIMA CENTRO ;LIMA 21;Mayo;Masculino;Soltero;Perú;Ica;0;Trabajo
+574;9112;54;49369238;Cieneguilla;LIMA ESTE ;LIMA 40;Mayo;Masculino;Divorciado;Perú;Moquegua;4;Amistades
+575;9092;47;47388813;Miraflores;LIMA CENTRO ;LIMA 18;Diciembre;Femenino;Soltero;Perú;Ica;0;Amistades
+576;6743;14;46503862;Santa Anita;LIMA ESTE ;LIMA 43;Junio;Femenino;Soltero;Perú;Áncash;0;Viajes
+577;6807;29;43544786;Lurín;LIMA SUR ;LIMA 16;Octubre;Femenino;Viudo;Perú;Loreto;2;Amistades
+578;3453;58;47527286;Punta Hermosa;LIMA SUR ;LIMA 24;Enero;Masculino;Divorciado;Perú;Áncash;2;Viajes
+579;8981;35;43181886;Puente Piedra;LIMA NORTE ;LIMA 22;Marzo;Masculino;Divorciado;Perú;Callao;4;Amistades
+580;6244;41;41183623;Miraflores;LIMA CENTRO ;LIMA 18;Junio;Femenino;Soltero;Perú;Tumbes;0;Viajes
+581;7388;76;43976016;Santa María del Mar;LIMA SUR ;LIMA 37;Octubre;Femenino;Soltero;Perú;San Martín;0;Trabajo
+582;1216;44;45299250;Lima;LIMA CENTRO ;LIMA 01;Mayo;Masculino;Casado;Perú;Puno;2;Amistades
+583;8587;56;40968363;Pachacámac;LIMA SUR ;LIMA 19;Agosto;Femenino;Soltero;Perú;Callao;0;Familia
+584;3214;72;41113823;Punta Hermosa;LIMA SUR ;LIMA 24;Abril;Femenino;Divorciado;Perú;La Libertad;1;Familia
+585;8755;51;49828058;La Punta;CALLAO ;CALLAO 05;Mayo;Femenino;Casado;Perú;Pasco;4;Viajes
+586;8621;73;45338742;San Bartolo;LIMA SUR ;LIMA 26;Agosto;Femenino;Soltero;Perú;Apurímac;0;Viajes
+587;3981;42;48255860;Los Olivos;LIMA NORTE ;LIMA 39;Diciembre;Femenino;Casado;Perú;Loreto;4;Diversión
+588;5515;43;45676779;Miraflores;LIMA CENTRO ;LIMA 18;Septiembre;Femenino;Soltero;Perú;Madre de Dios;0;Familia
+589;2672;14;42932776;San Miguel;LIMA CENTRO ;LIMA 32;Mayo;Masculino;Soltero;Perú;Madre de Dios;0;Trabajo
+590;5956;73;47994660;Pueblo Libre;LIMA CENTRO ;LIMA 21;Julio;Masculino;Casado;Perú;Amazonas;1;Familia
+591;9875;73;45215977;Callao;CALLAO ;CALLAO 01;Abril;Femenino;Viudo;Perú;Lima (Metropolitana);3;Familia
+592;9586;15;46202107;San Borja;LIMA CENTRO ;LIMA 41;Mayo;Masculino;Soltero;Perú;San Martín;0;Amistades
+593;8173;37;48449148;La Punta;CALLAO ;CALLAO 05;Mayo;Femenino;Viudo;Perú;Ucayali;1;Familia
+594;5168;52;43293562;Puente Piedra;LIMA NORTE ;LIMA 22;Julio;Masculino;Soltero;Perú;Apurímac;0;Diversión
+595;9557;70;42706401;Callao;CALLAO ;CALLAO 01;Abril;Masculino;Viudo;Perú;Cuzco;2;Trabajo
+596;3585;40;47298179;San Bartolo;LIMA SUR ;LIMA 26;Febrero;Masculino;Soltero;Perú;Lima (Provincias);0;Trabajo
+597;7358;30;40365388;San Miguel;LIMA CENTRO ;LIMA 32;Diciembre;Masculino;Divorciado;Perú;Ica;3;Amistades
+598;8427;68;45041308;Pueblo Libre;LIMA CENTRO ;LIMA 21;Enero;Femenino;Casado;Perú;Tumbes;3;Trabajo
+599;6220;32;43548979;Lurín;LIMA SUR ;LIMA 16;Diciembre;Femenino;Soltero;Perú;Puno;0;Familia
+600;6287;48;44969347;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Junio;Femenino;Casado;Perú;Huánuco;2;Diversión
+601;2374;26;48375195;San Martín de Porres;LIMA NORTE ;LIMA 31;Enero;Femenino;Casado;Perú;La Libertad;3;Diversión
+602;7569;38;42755265;Surquillo;LIMA CENTRO ;LIMA 34;Septiembre;Masculino;Divorciado;Perú;Ica;4;Viajes
+603;5942;23;47966438;Lince;LIMA CENTRO ;LIMA 14;Abril;Femenino;Soltero;Perú;Pasco;0;Diversión
+604;7936;51;47899276;Ventanilla;CALLAO ;CALLAO 06;Junio;Femenino;Soltero;Perú;Ucayali;0;Viajes
+605;4153;26;47975019;Bellavista;CALLAO ;CALLAO 02;Abril;Masculino;Casado;Perú;Lambayeque;2;Diversión
+606;2046;52;47549435;La Victoria;LIMA CENTRO ;LIMA 13;Abril;Masculino;Divorciado;Perú;Puno;3;Diversión
+607;7289;47;42810100;Ancón;LIMA NORTE ;LIMA 02;Noviembre;Femenino;Soltero;Perú;Amazonas;0;Familia
+608;1686;47;44787518;Lima;LIMA CENTRO ;LIMA 01;Septiembre;Masculino;Casado;Perú;Lima (Metropolitana);3;Familia
+609;1185;31;47750049;Punta Hermosa;LIMA SUR ;LIMA 24;Septiembre;Masculino;Viudo;Perú;Cajamarca;4;Trabajo
+610;3955;57;46212593;Cieneguilla;LIMA ESTE ;LIMA 40;Marzo;Femenino;Viudo;Perú;Huancavelica;2;Familia
+611;6524;76;40759477;La Punta;CALLAO ;CALLAO 05;Enero;Femenino;Divorciado;Perú;Tumbes;2;Trabajo
+612;9290;65;40864638;Cieneguilla;LIMA ESTE ;LIMA 40;Mayo;Masculino;Viudo;Perú;Madre de Dios;2;Viajes
+613;7116;36;42934972;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Octubre;Masculino;Soltero;Perú;Moquegua;0;Familia
+614;8831;31;42482753;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Marzo;Femenino;Divorciado;Perú;Ica;3;Amistades
+615;3275;25;41827414;San Borja;LIMA CENTRO ;LIMA 41;Julio;Masculino;Casado;Perú;Junín;4;Diversión
+616;6145;35;48881788;Lurín;LIMA SUR ;LIMA 16;Mayo;Masculino;Divorciado;Perú;Tumbes;3;Familia
+617;3901;40;48143956;La Molina;LIMA ESTE ;LIMA 12;Junio;Masculino;Divorciado;Perú;Lambayeque;1;Amistades
+618;6640;19;45684313;Ate;LIMA ESTE ;LIMA 03;Septiembre;Femenino;Soltero;Perú;Huánuco;0;Familia
+619;8888;71;48303979;Santa María del Mar;LIMA SUR ;LIMA 37;Diciembre;Femenino;Casado;Perú;Ucayali;3;Amistades
+620;4427;22;44810460;San Luis;LIMA ESTE ;LIMA 30;Septiembre;Masculino;Soltero;Perú;Moquegua;0;Viajes
+621;6654;28;49234481;Santa María del Mar;LIMA SUR ;LIMA 37;Diciembre;Masculino;Casado;Perú;San Martín;3;Amistades
+622;3230;66;46800675;Pueblo Libre;LIMA CENTRO ;LIMA 21;Enero;Masculino;Soltero;Perú;Junín;0;Diversión
+623;1093;67;42653896;Barranco;LIMA CENTRO ;LIMA 04;Febrero;Femenino;Casado;Perú;Huánuco;2;Familia
+624;9017;15;45905973;La Punta;CALLAO ;CALLAO 05;Agosto;Masculino;Soltero;Perú;Ucayali;0;Viajes
+625;7891;79;41939208;Comas;LIMA NORTE ;LIMA 07;Enero;Femenino;Divorciado;Perú;Puno;1;Diversión
+626;9641;32;45006801;Villa El Salvador;LIMA SUR ;LIMA 42;Mayo;Masculino;Divorciado;Perú;Lima (Provincias);1;Familia
+627;2872;28;41976453;Bellavista;CALLAO ;CALLAO 02;Septiembre;Femenino;Divorciado;Perú;Tumbes;1;Familia
+628;6597;75;40400054;Santa Rosa;LIMA NORTE ;LIMA 38;Diciembre;Masculino;Divorciado;Perú;Arequipa;3;Familia
+629;4880;62;48182618;Barranco;LIMA CENTRO ;LIMA 04;Abril;Femenino;Soltero;Perú;La Libertad;0;Trabajo
+630;4062;70;47880709;Los Olivos;LIMA NORTE ;LIMA 39;Febrero;Femenino;Casado;Perú;Moquegua;1;Trabajo
+631;6224;32;45684006;Ancón;LIMA NORTE ;LIMA 02;Enero;Masculino;Casado;Perú;Tumbes;2;Diversión
+632;6515;52;49815068;Independencia;LIMA NORTE ;LIMA 28;Octubre;Femenino;Viudo;Perú;Cajamarca;4;Amistades
+633;9934;68;41870170;Comas;LIMA NORTE ;LIMA 07;Abril;Masculino;Divorciado;Perú;Tacna;2;Familia
+634;8095;76;46938843;Lince;LIMA CENTRO ;LIMA 14;Abril;Femenino;Divorciado;Perú;Madre de Dios;1;Trabajo
+635;3262;72;49003914;Callao;CALLAO ;CALLAO 01;Marzo;Masculino;Divorciado;Perú;Áncash;4;Trabajo
+636;5138;16;46782079;Comas;LIMA NORTE ;LIMA 07;Agosto;Masculino;Soltero;Perú;Ica;0;Amistades
+637;1922;76;46167826;Independencia;LIMA NORTE ;LIMA 28;Septiembre;Femenino;Casado;Perú;Moquegua;2;Viajes
+638;4369;78;40380964;Independencia;LIMA NORTE ;LIMA 28;Octubre;Femenino;Casado;Perú;Madre de Dios;3;Familia
+639;4692;44;44528570;El Agustino;LIMA ESTE ;LIMA 10;Agosto;Femenino;Soltero;Perú;Pasco;0;Diversión
+640;1086;58;44393423;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Mayo;Femenino;Divorciado;Perú;Arequipa;1;Diversión
+641;5888;74;42298144;San Luis;LIMA ESTE ;LIMA 30;Agosto;Femenino;Soltero;Perú;Lima (Provincias);0;Viajes
+642;8707;62;42480663;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Junio;Masculino;Soltero;Perú;La Libertad;0;Amistades
+643;6082;60;46639907;La Molina;LIMA ESTE ;LIMA 12;Julio;Femenino;Soltero;Perú;Puno;0;Viajes
+644;2057;23;45375362;Pachacámac;LIMA SUR ;LIMA 19;Agosto;Femenino;Soltero;Perú;Madre de Dios;0;Diversión
+645;4095;67;45321450;Barranco;LIMA CENTRO ;LIMA 04;Febrero;Femenino;Divorciado;Perú;Loreto;1;Diversión
+646;5541;27;43145035;Punta Hermosa;LIMA SUR ;LIMA 24;Octubre;Femenino;Soltero;Perú;Cajamarca;0;Viajes
+647;1991;31;40706576;San Martín de Porres;LIMA NORTE ;LIMA 31;Septiembre;Femenino;Viudo;Perú;Puno;2;Diversión
+648;2868;60;40601070;Santiago de Surco;LIMA CENTRO ;LIMA 33;Mayo;Masculino;Viudo;Perú;Junín;1;Viajes
+649;6686;37;46031322;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Diciembre;Masculino;Viudo;Perú;Ucayali;2;Familia
+650;4115;38;44206811;Santiago de Surco;LIMA CENTRO ;LIMA 33;Mayo;Femenino;Soltero;Perú;Tacna;0;Trabajo
+651;6990;56;46078595;Ventanilla;CALLAO ;CALLAO 06;Febrero;Masculino;Soltero;Perú;Tacna;0;Viajes
+652;1031;42;43558423;La Perla;CALLAO ;CALLAO 04;Agosto;Masculino;Casado;Perú;Lima (Metropolitana);2;Trabajo
+653;9081;35;45123118;Callao;CALLAO ;CALLAO 01;Abril;Femenino;Viudo;Perú;Lambayeque;2;Viajes
+654;1403;32;42985102;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Enero;Masculino;Viudo;Perú;Ucayali;3;Viajes
+655;6137;50;47251513;Cieneguilla;LIMA ESTE ;LIMA 40;Julio;Femenino;Divorciado;Perú;Amazonas;2;Diversión
+656;1270;58;48002923;Lince;LIMA CENTRO ;LIMA 14;Junio;Masculino;Casado;Perú;Tacna;3;Familia
+657;7970;65;42345359;Santa Anita;LIMA ESTE ;LIMA 43;Mayo;Masculino;Viudo;Perú;Madre de Dios;4;Familia
+658;2177;33;42261791;Villa María del Triunfo;LIMA SUR ;LIMA 35;Diciembre;Femenino;Soltero;Perú;Huancavelica;0;Diversión
+659;1272;67;47195299;San Martín de Porres;LIMA NORTE ;LIMA 31;Agosto;Femenino;Divorciado;Perú;La Libertad;1;Amistades
+660;4171;34;42670482;Santa Anita;LIMA ESTE ;LIMA 43;Julio;Masculino;Casado;Perú;La Libertad;4;Diversión
+661;4864;19;43589928;Chorrillos;LIMA SUR ;LIMA 09;Enero;Femenino;Soltero;Perú;Tacna;0;Familia
+662;5534;50;43956329;Puente Piedra;LIMA NORTE ;LIMA 22;Mayo;Masculino;Viudo;Perú;Loreto;4;Familia
+663;5361;20;44008818;Lurín;LIMA SUR ;LIMA 16;Enero;Masculino;Soltero;Perú;Loreto;0;Viajes
+664;7288;31;48822470;Bellavista;CALLAO ;CALLAO 02;Septiembre;Masculino;Casado;Perú;La Libertad;2;Amistades
+665;4279;65;40588928;San Juan de Miraflores;LIMA SUR ;LIMA 29;Mayo;Femenino;Viudo;Perú;Huancavelica;3;Diversión
+666;1842;52;47734053;San Borja;LIMA CENTRO ;LIMA 41;Noviembre;Femenino;Divorciado;Perú;Cajamarca;3;Familia
+667;3728;17;43256549;Ventanilla;CALLAO ;CALLAO 06;Junio;Masculino;Soltero;Perú;Lima (Metropolitana);0;Amistades
+668;5407;68;41245686;Santa Rosa;LIMA NORTE ;LIMA 38;Agosto;Masculino;Divorciado;Perú;Ayacucho;1;Diversión
+669;8645;74;46531850;Barranco;LIMA CENTRO ;LIMA 04;Julio;Femenino;Casado;Perú;Apurímac;2;Amistades
+670;1517;27;47798937;Carabayllo;LIMA NORTE ;LIMA 06;Junio;Masculino;Casado;Perú;Arequipa;1;Amistades
+671;1327;66;40272426;San Juan de Miraflores;LIMA SUR ;LIMA 29;Enero;Masculino;Casado;Perú;Áncash;1;Trabajo
+672;3515;52;40546240;Ancón;LIMA NORTE ;LIMA 02;Febrero;Masculino;Soltero;Perú;Piura;0;Amistades
+673;1127;35;40156188;Cieneguilla;LIMA ESTE ;LIMA 40;Enero;Masculino;Viudo;Perú;Madre de Dios;4;Amistades
+674;4961;72;44717963;Puente Piedra;LIMA NORTE ;LIMA 22;Junio;Femenino;Casado;Perú;Piura;2;Trabajo
+675;2669;32;48649870;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Agosto;Femenino;Divorciado;Perú;Amazonas;1;Familia
+676;5677;37;42243248;La Victoria;LIMA CENTRO ;LIMA 13;Noviembre;Masculino;Viudo;Perú;Lima (Provincias);2;Amistades
+677;1501;48;46180009;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Febrero;Masculino;Soltero;Perú;Moquegua;0;Amistades
+678;9476;73;40691592;Ancón;LIMA NORTE ;LIMA 02;Abril;Masculino;Divorciado;Perú;Huánuco;2;Trabajo
+679;7114;74;46891725;San Miguel;LIMA CENTRO ;LIMA 32;Mayo;Masculino;Soltero;Perú;Lima (Provincias);0;Diversión
+680;2322;76;46536603;Jesús María;LIMA CENTRO ;LIMA 11;Diciembre;Femenino;Soltero;Perú;Piura;0;Viajes
+681;2436;59;46528618;Rímac;LIMA CENTRO ;LIMA 26;Mayo;Masculino;Soltero;Perú;Tacna;0;Amistades
+682;8712;72;48288653;San Borja;LIMA CENTRO ;LIMA 41;Diciembre;Masculino;Divorciado;Perú;La Libertad;4;Diversión
+683;1428;65;41713370;Carabayllo;LIMA NORTE ;LIMA 06;Febrero;Masculino;Soltero;Perú;Cuzco;0;Amistades
+684;7122;24;46609696;San Miguel;LIMA CENTRO ;LIMA 32;Marzo;Masculino;Soltero;Perú;Huánuco;0;Viajes
+685;1250;64;47163184;Ventanilla;CALLAO ;CALLAO 06;Mayo;Femenino;Soltero;Perú;Áncash;0;Amistades
+686;1252;35;46021370;San Bartolo;LIMA SUR ;LIMA 26;Agosto;Masculino;Casado;Perú;Ayacucho;2;Diversión
+687;7468;49;46560309;Comas;LIMA NORTE ;LIMA 07;Abril;Masculino;Viudo;Perú;Ucayali;3;Diversión
+688;9278;27;48196229;Santa María del Mar;LIMA SUR ;LIMA 37;Octubre;Masculino;Casado;Perú;Junín;4;Familia
+689;5998;49;40561376;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Julio;Femenino;Viudo;Perú;Piura;1;Viajes
+690;5001;74;41132489;La Molina;LIMA ESTE ;LIMA 12;Marzo;Masculino;Casado;Perú;Piura;1;Familia
+691;3567;48;45398323;Pucusana;LIMA SUR ;LIMA 20;Febrero;Masculino;Casado;Perú;Ucayali;2;Familia
+692;2212;33;40663501;La Victoria;LIMA CENTRO ;LIMA 13;Enero;Masculino;Casado;Perú;Amazonas;3;Familia
+693;4281;74;47456677;Santa María del Mar;LIMA SUR ;LIMA 37;Abril;Masculino;Soltero;Perú;Ayacucho;0;Viajes
+694;1967;60;43551264;Punta Hermosa;LIMA SUR ;LIMA 24;Junio;Masculino;Divorciado;Perú;Tacna;3;Trabajo
+695;3801;52;48015195;Bellavista;CALLAO ;CALLAO 02;Abril;Femenino;Divorciado;Perú;Pasco;4;Trabajo
+696;5830;39;40190419;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Noviembre;Masculino;Divorciado;Perú;Moquegua;1;Trabajo
+697;3519;66;45561883;Ate;LIMA ESTE ;LIMA 03;Febrero;Femenino;Casado;Perú;Lima (Provincias);2;Amistades
+698;7557;49;44203690;Punta Hermosa;LIMA SUR ;LIMA 24;Diciembre;Masculino;Soltero;Perú;Moquegua;0;Familia
+699;1353;47;47462291;La Punta;CALLAO ;CALLAO 05;Enero;Femenino;Divorciado;Perú;Tacna;1;Familia
+700;3520;77;40574881;La Victoria;LIMA CENTRO ;LIMA 13;Noviembre;Masculino;Viudo;Perú;Tumbes;3;Familia
+701;3679;58;45243416;Villa María del Triunfo;LIMA SUR ;LIMA 35;Septiembre;Masculino;Casado;Perú;San Martín;1;Familia
+702;2995;57;43170653;Miraflores;LIMA CENTRO ;LIMA 18;Agosto;Femenino;Soltero;Perú;Áncash;0;Amistades
+703;6092;25;41064903;San Luis;LIMA ESTE ;LIMA 30;Octubre;Masculino;Viudo;Perú;La Libertad;3;Diversión
+704;8602;65;45578864;San Juan de Miraflores;LIMA SUR ;LIMA 29;Octubre;Femenino;Casado;Perú;Huancavelica;3;Viajes
+705;1007;26;40532557;Santa María del Mar;LIMA SUR ;LIMA 37;Agosto;Masculino;Divorciado;Perú;Cuzco;2;Trabajo
+706;4754;45;45407515;Lima;LIMA CENTRO ;LIMA 01;Marzo;Femenino;Divorciado;Perú;San Martín;1;Amistades
+707;1603;36;47010748;La Molina;LIMA ESTE ;LIMA 12;Marzo;Femenino;Viudo;Perú;La Libertad;2;Diversión
+708;9218;15;40023320;Jesús María;LIMA CENTRO ;LIMA 11;Marzo;Masculino;Soltero;Perú;Moquegua;0;Familia
+709;8638;26;43598815;San Miguel;LIMA CENTRO ;LIMA 32;Septiembre;Femenino;Divorciado;Perú;Pasco;2;Familia
+710;6732;35;44956929;Lince;LIMA CENTRO ;LIMA 14;Mayo;Masculino;Soltero;Perú;Puno;0;Viajes
+711;4063;68;43666876;La Molina;LIMA ESTE ;LIMA 12;Noviembre;Masculino;Divorciado;Perú;Junín;1;Trabajo
+712;8517;75;42878541;Carabayllo;LIMA NORTE ;LIMA 06;Octubre;Masculino;Divorciado;Perú;Lambayeque;4;Familia
+713;4499;32;42040075;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Febrero;Femenino;Viudo;Perú;Tumbes;2;Amistades
+714;5208;42;41425416;Puente Piedra;LIMA NORTE ;LIMA 22;Marzo;Masculino;Viudo;Perú;Lima (Metropolitana);4;Viajes
+715;9195;20;46883025;Santiago de Surco;LIMA CENTRO ;LIMA 33;Septiembre;Femenino;Soltero;Perú;Ucayali;0;Familia
+716;5241;22;47000513;Miraflores;LIMA CENTRO ;LIMA 18;Noviembre;Masculino;Soltero;Perú;Loreto;0;Amistades
+717;6734;64;46699744;Ate;LIMA ESTE ;LIMA 03;Junio;Femenino;Casado;Perú;Huánuco;1;Diversión
+718;6355;28;45795511;San Martín de Porres;LIMA NORTE ;LIMA 31;Agosto;Masculino;Soltero;Perú;Lambayeque;0;Familia
+719;8143;23;43393606;Santa Anita;LIMA ESTE ;LIMA 43;Diciembre;Femenino;Soltero;Perú;Loreto;0;Diversión
+720;6182;37;42681293;Ate;LIMA ESTE ;LIMA 03;Enero;Femenino;Soltero;Perú;Áncash;0;Viajes
+721;4808;67;46479327;San Miguel;LIMA CENTRO ;LIMA 32;Junio;Femenino;Divorciado;Perú;Tacna;1;Amistades
+722;3667;58;44576801;La Perla;CALLAO ;CALLAO 04;Junio;Masculino;Casado;Perú;Puno;4;Familia
+723;1257;48;49352828;San Borja;LIMA CENTRO ;LIMA 41;Mayo;Femenino;Divorciado;Perú;Huancavelica;4;Viajes
+724;5235;46;45930071;Bellavista;CALLAO ;CALLAO 02;Julio;Masculino;Divorciado;Perú;Pasco;1;Amistades
+725;2815;18;43350883;San Juan de Miraflores;LIMA SUR ;LIMA 29;Noviembre;Femenino;Soltero;Perú;Loreto;0;Trabajo
+726;3762;23;48649463;Pachacámac;LIMA SUR ;LIMA 19;Diciembre;Femenino;Soltero;Perú;Lambayeque;0;Viajes
+727;7423;72;41793279;San Miguel;LIMA CENTRO ;LIMA 32;Febrero;Femenino;Divorciado;Perú;Ica;4;Amistades
+728;2472;48;45587227;Lince;LIMA CENTRO ;LIMA 14;Mayo;Femenino;Casado;Perú;Madre de Dios;1;Diversión
+729;2033;53;42166313;Lurín;LIMA SUR ;LIMA 16;Diciembre;Femenino;Casado;Perú;La Libertad;4;Viajes
+730;1653;44;43072917;Punta Hermosa;LIMA SUR ;LIMA 24;Septiembre;Femenino;Casado;Perú;Apurímac;3;Familia
+731;6972;69;45742080;San Isidro;LIMA CENTRO ;LIMA 27;Noviembre;Femenino;Viudo;Perú;Áncash;3;Trabajo
+732;9215;60;49055124;Callao;CALLAO ;CALLAO 01;Noviembre;Femenino;Casado;Perú;Tumbes;2;Viajes
+733;4870;56;48923671;Pueblo Libre;LIMA CENTRO ;LIMA 21;Febrero;Masculino;Casado;Perú;Ayacucho;3;Viajes
+734;3488;65;41423543;Lima;LIMA CENTRO ;LIMA 01;Junio;Femenino;Viudo;Perú;Junín;4;Amistades
+735;1673;35;45593221;Pachacámac;LIMA SUR ;LIMA 19;Febrero;Femenino;Soltero;Perú;Tumbes;0;Viajes
+736;2054;58;46443960;Comas;LIMA NORTE ;LIMA 07;Diciembre;Femenino;Casado;Perú;Ica;4;Viajes
+737;1681;68;44059318;Los Olivos;LIMA NORTE ;LIMA 39;Noviembre;Femenino;Viudo;Perú;Tacna;1;Diversión
+738;9979;40;41545769;Jesús María;LIMA CENTRO ;LIMA 11;Agosto;Femenino;Viudo;Perú;Pasco;1;Diversión
+739;4097;66;49393803;Santa Anita;LIMA ESTE ;LIMA 43;Diciembre;Femenino;Viudo;Perú;Puno;1;Viajes
+740;9653;74;42605341;San Luis;LIMA ESTE ;LIMA 30;Octubre;Femenino;Casado;Perú;Madre de Dios;3;Familia
+741;1329;17;47569920;Punta Negra;LIMA SUR ;LIMA 23;Noviembre;Femenino;Soltero;Perú;Madre de Dios;0;Trabajo
+742;1129;44;43537885;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Agosto;Femenino;Viudo;Perú;Ayacucho;2;Diversión
+743;7763;23;43763326;Villa María del Triunfo;LIMA SUR ;LIMA 35;Agosto;Femenino;Soltero;Perú;Callao;0;Viajes
+744;4495;37;46008648;La Victoria;LIMA CENTRO ;LIMA 13;Agosto;Masculino;Divorciado;Perú;Cajamarca;1;Familia
+745;9414;68;47456391;San Juan de Miraflores;LIMA SUR ;LIMA 29;Abril;Femenino;Divorciado;Perú;Moquegua;1;Amistades
+746;9909;44;42555906;Carabayllo;LIMA NORTE ;LIMA 06;Septiembre;Femenino;Viudo;Perú;Junín;1;Diversión
+747;7191;73;46416389;Breña;LIMA CENTRO ;LIMA 05;Febrero;Femenino;Viudo;Perú;Ica;4;Amistades
+748;8749;25;46769314;San Luis;LIMA ESTE ;LIMA 30;Septiembre;Masculino;Viudo;Perú;Tumbes;2;Viajes
+749;5042;72;44611414;Miraflores;LIMA CENTRO ;LIMA 18;Noviembre;Masculino;Viudo;Perú;San Martín;2;Viajes
+750;9842;47;46445068;La Perla;CALLAO ;CALLAO 04;Mayo;Femenino;Divorciado;Perú;Pasco;2;Diversión
+751;5887;34;49129372;San Isidro;LIMA CENTRO ;LIMA 27;Octubre;Masculino;Divorciado;Perú;Callao;3;Viajes
+752;8736;63;41483675;Bellavista;CALLAO ;CALLAO 02;Diciembre;Femenino;Casado;Perú;La Libertad;2;Amistades
+753;5489;31;44545565;San Juan de Miraflores;LIMA SUR ;LIMA 29;Noviembre;Femenino;Casado;Perú;Ica;3;Amistades
+754;7707;68;44831463;Carabayllo;LIMA NORTE ;LIMA 06;Junio;Femenino;Viudo;Perú;Lima (Metropolitana);3;Amistades
+755;6583;27;45167000;Comas;LIMA NORTE ;LIMA 07;Noviembre;Masculino;Soltero;Perú;Huánuco;0;Diversión
+756;1217;73;47760698;Puente Piedra;LIMA NORTE ;LIMA 22;Octubre;Femenino;Casado;Perú;Piura;1;Amistades
+757;5439;23;44539743;San Borja;LIMA CENTRO ;LIMA 41;Marzo;Masculino;Soltero;Perú;Apurímac;0;Familia
+758;5349;61;45747220;Carabayllo;LIMA NORTE ;LIMA 06;Enero;Femenino;Divorciado;Perú;Piura;3;Viajes
+759;7563;15;43215646;Pueblo Libre;LIMA CENTRO ;LIMA 21;Diciembre;Masculino;Soltero;Perú;Moquegua;0;Amistades
+760;5536;79;48205269;Bellavista;CALLAO ;CALLAO 02;Agosto;Femenino;Soltero;Perú;Pasco;0;Viajes
+761;2307;28;40129745;Callao;CALLAO ;CALLAO 01;Mayo;Femenino;Divorciado;Perú;Lima (Provincias);2;Familia
+762;5323;41;40365633;Barranco;LIMA CENTRO ;LIMA 04;Febrero;Masculino;Divorciado;Perú;Madre de Dios;4;Amistades
+763;7810;52;46993647;Jesús María;LIMA CENTRO ;LIMA 11;Octubre;Masculino;Viudo;Perú;Apurímac;4;Amistades
+764;8744;63;49262763;La Perla;CALLAO ;CALLAO 04;Agosto;Masculino;Viudo;Perú;Arequipa;2;Trabajo
+765;2625;61;42597288;Pueblo Libre;LIMA CENTRO ;LIMA 21;Abril;Femenino;Divorciado;Perú;Lima (Provincias);2;Amistades
+766;5641;35;49218139;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Noviembre;Masculino;Casado;Perú;Apurímac;1;Trabajo
+767;6208;54;47884500;Surquillo;LIMA CENTRO ;LIMA 34;Julio;Masculino;Divorciado;Perú;Lambayeque;3;Amistades
+768;2634;70;41185775;San Bartolo;LIMA SUR ;LIMA 26;Junio;Masculino;Casado;Perú;Loreto;1;Amistades
+769;5340;30;43749709;San Bartolo;LIMA SUR ;LIMA 26;Junio;Femenino;Soltero;Perú;Ica;0;Diversión
+770;8080;54;42941890;Villa María del Triunfo;LIMA SUR ;LIMA 35;Noviembre;Femenino;Viudo;Perú;Cajamarca;4;Viajes
+771;2694;16;45242830;Independencia;LIMA NORTE ;LIMA 28;Abril;Masculino;Soltero;Perú;Huancavelica;0;Amistades
+772;7396;20;49462411;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Diciembre;Femenino;Soltero;Perú;La Libertad;0;Diversión
+773;3244;46;41602906;Punta Negra;LIMA SUR ;LIMA 23;Abril;Femenino;Viudo;Perú;Ica;1;Trabajo
+774;4037;53;48467268;Bellavista;CALLAO ;CALLAO 02;Abril;Masculino;Viudo;Perú;Moquegua;2;Familia
+775;4953;60;42900220;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Julio;Femenino;Soltero;Perú;Arequipa;0;Amistades
+776;5419;29;45812309;San Isidro;LIMA CENTRO ;LIMA 27;Abril;Femenino;Viudo;Perú;Amazonas;4;Amistades
+777;3599;40;45118591;Ancón;LIMA NORTE ;LIMA 02;Abril;Masculino;Soltero;Perú;Huancavelica;0;Viajes
+778;3400;61;41388219;Puente Piedra;LIMA NORTE ;LIMA 22;Julio;Femenino;Divorciado;Perú;Huancavelica;4;Trabajo
+779;1117;59;43849542;Callao;CALLAO ;CALLAO 01;Octubre;Femenino;Casado;Perú;Huánuco;3;Trabajo
+780;2845;79;41619490;Ancón;LIMA NORTE ;LIMA 02;Marzo;Masculino;Viudo;Perú;Cuzco;3;Diversión
+781;4149;30;46783603;San Juan de Miraflores;LIMA SUR ;LIMA 29;Agosto;Masculino;Divorciado;Perú;Loreto;4;Trabajo
+782;9028;28;46810426;Cieneguilla;LIMA ESTE ;LIMA 40;Febrero;Femenino;Viudo;Perú;Cajamarca;3;Viajes
+783;4218;53;40174066;Breña;LIMA CENTRO ;LIMA 05;Julio;Femenino;Divorciado;Perú;Piura;2;Familia
+784;9510;76;44473597;Lima;LIMA CENTRO ;LIMA 01;Julio;Femenino;Soltero;Perú;Ucayali;0;Diversión
+785;4623;71;48020064;Cieneguilla;LIMA ESTE ;LIMA 40;Diciembre;Femenino;Divorciado;Perú;Tumbes;3;Trabajo
+786;6277;39;44696020;Ate;LIMA ESTE ;LIMA 03;Mayo;Femenino;Soltero;Perú;La Libertad;0;Viajes
+787;1459;34;40872135;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Junio;Femenino;Divorciado;Perú;Madre de Dios;4;Viajes
+788;2316;46;45246259;Santa Anita;LIMA ESTE ;LIMA 43;Julio;Femenino;Soltero;Perú;Ica;0;Viajes
+789;9504;17;44183060;Ate;LIMA ESTE ;LIMA 03;Mayo;Femenino;Soltero;Perú;Cuzco;0;Familia
+790;6408;75;40383016;Surquillo;LIMA CENTRO ;LIMA 34;Febrero;Femenino;Casado;Perú;Cajamarca;4;Familia
+791;8624;61;40010026;Pucusana;LIMA SUR ;LIMA 20;Julio;Femenino;Viudo;Perú;San Martín;3;Familia
+792;4752;27;42466778;La Punta;CALLAO ;CALLAO 05;Junio;Femenino;Casado;Perú;Loreto;3;Familia
+793;2158;79;49858667;Carmen de La Legua-Reynoso;CALLAO ;CALLAO 03;Mayo;Masculino;Viudo;Perú;Cajamarca;2;Viajes
+794;4629;67;48115450;Carabayllo;LIMA NORTE ;LIMA 06;Julio;Femenino;Casado;Perú;Lima (Provincias);4;Amistades
+795;7842;21;47022932;Santiago de Surco;LIMA CENTRO ;LIMA 33;Octubre;Femenino;Soltero;Perú;Ayacucho;0;Amistades
+796;9650;61;40979471;Ventanilla;CALLAO ;CALLAO 06;Septiembre;Masculino;Soltero;Perú;Loreto;0;Amistades
+797;1340;39;48383288;Pueblo Libre;LIMA CENTRO ;LIMA 21;Julio;Masculino;Soltero;Perú;Madre de Dios;0;Diversión
+798;4981;78;43450676;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Diciembre;Masculino;Viudo;Perú;Moquegua;4;Amistades
+799;1785;60;47509901;Jesús María;LIMA CENTRO ;LIMA 11;Noviembre;Masculino;Viudo;Perú;San Martín;1;Diversión
+800;3962;73;44875968;Pachacámac;LIMA SUR ;LIMA 19;Julio;Masculino;Viudo;Perú;La Libertad;4;Familia
+801;5204;28;43315611;Punta Negra;LIMA SUR ;LIMA 23;Septiembre;Masculino;Casado;Perú;Piura;1;Viajes
+802;5963;64;48389500;Puente Piedra;LIMA NORTE ;LIMA 22;Junio;Femenino;Viudo;Perú;San Martín;3;Diversión
+803;3052;22;47255640;Surquillo;LIMA CENTRO ;LIMA 34;Marzo;Masculino;Soltero;Perú;Tumbes;0;Amistades
+804;1091;74;49142421;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Septiembre;Masculino;Casado;Perú;Moquegua;3;Familia
+805;9342;20;40591182;Independencia;LIMA NORTE ;LIMA 28;Febrero;Masculino;Soltero;Perú;Lambayeque;0;Amistades
+806;1587;69;43818021;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Mayo;Masculino;Viudo;Perú;Arequipa;2;Viajes
+807;9432;25;41616382;Pachacámac;LIMA SUR ;LIMA 19;Diciembre;Femenino;Divorciado;Perú;Huancavelica;1;Amistades
+808;1260;44;44103940;Lurín;LIMA SUR ;LIMA 16;Junio;Masculino;Divorciado;Perú;La Libertad;1;Familia
+809;5059;44;43530264;Miraflores;LIMA CENTRO ;LIMA 18;Febrero;Femenino;Soltero;Perú;Moquegua;0;Amistades
+810;6165;50;45768708;Santiago de Surco;LIMA CENTRO ;LIMA 33;Mayo;Masculino;Viudo;Perú;Cajamarca;4;Trabajo
+811;3867;74;44310539;Breña;LIMA CENTRO ;LIMA 05;Abril;Masculino;Divorciado;Perú;Amazonas;2;Trabajo
+812;5573;57;47540172;Pachacámac;LIMA SUR ;LIMA 19;Julio;Masculino;Soltero;Perú;Madre de Dios;0;Diversión
+813;1771;27;46534190;Punta Negra;LIMA SUR ;LIMA 23;Diciembre;Masculino;Casado;Perú;Apurímac;2;Familia
+814;1677;56;46507174;Ancón;LIMA NORTE ;LIMA 02;Enero;Masculino;Casado;Perú;Pasco;4;Trabajo
+815;4089;57;47224011;Bellavista;CALLAO ;CALLAO 02;Febrero;Femenino;Viudo;Perú;Tacna;2;Viajes
+816;3912;14;46858825;San Juan de Miraflores;LIMA SUR ;LIMA 29;Mayo;Masculino;Soltero;Perú;Huancavelica;0;Viajes
+817;8209;65;43647066;Punta Hermosa;LIMA SUR ;LIMA 24;Mayo;Femenino;Divorciado;Perú;Lambayeque;3;Viajes
+818;4615;48;40365769;La Perla;CALLAO ;CALLAO 04;Mayo;Masculino;Viudo;Perú;Amazonas;1;Viajes
+819;4348;39;44754289;Independencia;LIMA NORTE ;LIMA 28;Agosto;Masculino;Viudo;Perú;Junín;1;Trabajo
+820;3799;69;40462895;Villa El Salvador;LIMA SUR ;LIMA 42;Diciembre;Femenino;Soltero;Perú;Cajamarca;0;Viajes
+821;3362;34;41260055;Santa Rosa;LIMA NORTE ;LIMA 38;Agosto;Femenino;Viudo;Perú;Madre de Dios;1;Viajes
+822;2150;25;49896738;Ventanilla;CALLAO ;CALLAO 06;Abril;Femenino;Viudo;Perú;Arequipa;4;Diversión
+823;7351;33;42243528;El Agustino;LIMA ESTE ;LIMA 10;Septiembre;Masculino;Viudo;Perú;Callao;2;Viajes
+824;4407;79;42258526;San Borja;LIMA CENTRO ;LIMA 41;Abril;Femenino;Soltero;Perú;Junín;0;Trabajo
+825;7657;56;46698615;Breña;LIMA CENTRO ;LIMA 05;Julio;Masculino;Casado;Perú;Loreto;2;Familia
+826;4239;18;48827423;Lince;LIMA CENTRO ;LIMA 14;Abril;Masculino;Soltero;Perú;La Libertad;0;Diversión
+827;5614;40;40731273;Punta Hermosa;LIMA SUR ;LIMA 24;Septiembre;Masculino;Casado;Perú;Tacna;4;Trabajo
+828;6942;36;48692863;San Luis;LIMA ESTE ;LIMA 30;Agosto;Masculino;Soltero;Perú;Arequipa;0;Familia
+829;8327;47;45345746;Comas;LIMA NORTE ;LIMA 07;Enero;Masculino;Soltero;Perú;Madre de Dios;0;Diversión
+830;6961;70;41744138;Lurigancho-Chosica;LIMA ESTE ;LIMA 15;Diciembre;Masculino;Divorciado;Perú;Moquegua;2;Diversión
+831;3555;21;44009360;Ancón;LIMA NORTE ;LIMA 02;Mayo;Femenino;Soltero;Perú;La Libertad;0;Trabajo
+832;3807;40;40943610;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Mayo;Masculino;Divorciado;Perú;Tacna;2;Amistades
+833;8048;52;44388122;Punta Negra;LIMA SUR ;LIMA 23;Octubre;Femenino;Viudo;Perú;Cuzco;2;Trabajo
+834;8996;51;44478441;Ancón;LIMA NORTE ;LIMA 02;Diciembre;Femenino;Casado;Perú;Huánuco;2;Trabajo
+835;5330;20;42930926;Lima;LIMA CENTRO ;LIMA 01;Diciembre;Masculino;Soltero;Perú;Huánuco;0;Familia
+836;6522;19;42200579;San Juan de Miraflores;LIMA SUR ;LIMA 29;Octubre;Femenino;Soltero;Perú;Tacna;0;Viajes
+837;5738;58;48819834;Rímac;LIMA CENTRO ;LIMA 26;Marzo;Masculino;Divorciado;Perú;Loreto;3;Diversión
+838;4879;26;47812296;Lima;LIMA CENTRO ;LIMA 01;Septiembre;Masculino;Casado;Perú;Amazonas;3;Trabajo
+839;6958;73;43301259;Ventanilla;CALLAO ;CALLAO 06;Julio;Femenino;Divorciado;Perú;Huánuco;1;Viajes
+840;5512;31;42734646;Jesús María;LIMA CENTRO ;LIMA 11;Enero;Masculino;Casado;Perú;Loreto;1;Familia
+841;4077;14;43299485;Lurín;LIMA SUR ;LIMA 16;Agosto;Masculino;Soltero;Perú;Piura;0;Amistades
+842;7295;17;49460060;Bellavista;CALLAO ;CALLAO 02;Marzo;Femenino;Soltero;Perú;Moquegua;0;Viajes
+843;3626;17;49576222;Chorrillos;LIMA SUR ;LIMA 09;Diciembre;Femenino;Soltero;Perú;Cajamarca;0;Trabajo
+844;3844;55;49395720;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Abril;Masculino;Viudo;Perú;Áncash;2;Diversión
+845;9572;66;43132683;Pachacámac;LIMA SUR ;LIMA 19;Septiembre;Femenino;Soltero;Perú;Junín;0;Viajes
+846;8535;19;46021161;Villa El Salvador;LIMA SUR ;LIMA 42;Febrero;Femenino;Soltero;Perú;Moquegua;0;Diversión
+847;7382;68;46247996;Santa María del Mar;LIMA SUR ;LIMA 37;Septiembre;Femenino;Divorciado;Perú;La Libertad;2;Trabajo
+848;9276;29;42697878;La Molina;LIMA ESTE ;LIMA 12;Enero;Masculino;Soltero;Perú;Áncash;0;Viajes
+849;8245;30;48977342;Ventanilla;CALLAO ;CALLAO 06;Mayo;Masculino;Viudo;Perú;Pasco;1;Amistades
+850;1565;20;46447390;Santa María del Mar;LIMA SUR ;LIMA 37;Junio;Masculino;Soltero;Perú;Ica;0;Trabajo
+851;8700;35;46548163;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Diciembre;Femenino;Viudo;Perú;Lambayeque;3;Viajes
+852;2865;68;43715671;San Isidro;LIMA CENTRO ;LIMA 27;Julio;Masculino;Casado;Perú;Huancavelica;1;Amistades
+853;1153;38;48808345;Independencia;LIMA NORTE ;LIMA 28;Octubre;Femenino;Casado;Perú;Ayacucho;2;Amistades
+854;9369;22;47886319;Santa Anita;LIMA ESTE ;LIMA 43;Julio;Femenino;Soltero;Perú;Lima (Metropolitana);0;Trabajo
+855;6013;40;42961996;Lima;LIMA CENTRO ;LIMA 01;Septiembre;Femenino;Divorciado;Perú;Piura;1;Familia
+856;4542;50;43362351;Pachacámac;LIMA SUR ;LIMA 19;Noviembre;Masculino;Casado;Perú;Cajamarca;4;Viajes
+857;5212;36;41785682;Jesús María;LIMA CENTRO ;LIMA 11;Abril;Femenino;Viudo;Perú;Junín;1;Trabajo
+858;6144;58;42986026;Villa El Salvador;LIMA SUR ;LIMA 42;Enero;Femenino;Viudo;Perú;Lambayeque;4;Diversión
+859;9916;34;41127400;Santiago de Surco;LIMA CENTRO ;LIMA 33;Septiembre;Femenino;Casado;Perú;Junín;4;Diversión
+860;1026;38;48317882;Villa El Salvador;LIMA SUR ;LIMA 42;Marzo;Femenino;Casado;Perú;Áncash;4;Diversión
+861;7628;65;40638343;Santa María del Mar;LIMA SUR ;LIMA 37;Julio;Masculino;Soltero;Perú;Ucayali;0;Diversión
+862;5545;26;43254552;Lince;LIMA CENTRO ;LIMA 14;Febrero;Femenino;Soltero;Perú;Puno;0;Viajes
+863;6278;77;41526861;La Molina;LIMA ESTE ;LIMA 12;Junio;Masculino;Casado;Perú;Madre de Dios;4;Diversión
+864;8538;52;49344455;Punta Hermosa;LIMA SUR ;LIMA 24;Julio;Femenino;Viudo;Perú;Tumbes;4;Trabajo
+865;6718;43;45847479;Ventanilla;CALLAO ;CALLAO 06;Febrero;Masculino;Viudo;Perú;Junín;3;Diversión
+866;4386;65;49286484;La Molina;LIMA ESTE ;LIMA 12;Diciembre;Masculino;Soltero;Perú;Loreto;0;Amistades
+867;1953;18;42852568;San Borja;LIMA CENTRO ;LIMA 41;Febrero;Femenino;Soltero;Perú;Moquegua;0;Trabajo
+868;7914;29;48955982;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Marzo;Masculino;Soltero;Perú;Arequipa;0;Familia
+869;6150;75;47200801;Santa Anita;LIMA ESTE ;LIMA 43;Febrero;Femenino;Viudo;Perú;La Libertad;1;Familia
+870;3687;53;49588391;Santa María del Mar;LIMA SUR ;LIMA 37;Junio;Femenino;Casado;Perú;Junín;2;Trabajo
+871;3160;68;41506433;San Juan de Lurigancho;LIMA ESTE ;LIMA 36;Abril;Femenino;Divorciado;Perú;Madre de Dios;2;Familia
+872;1710;77;42286398;Puente Piedra;LIMA NORTE ;LIMA 22;Febrero;Femenino;Casado;Perú;Cuzco;2;Amistades
+873;1077;46;43712015;El Agustino;LIMA ESTE ;LIMA 10;Octubre;Femenino;Divorciado;Perú;Ica;1;Trabajo
+874;2245;42;49227907;Los Olivos;LIMA NORTE ;LIMA 39;Septiembre;Masculino;Viudo;Perú;Puno;4;Familia
+875;5626;28;46108111;San Juan de Miraflores;LIMA SUR ;LIMA 29;Julio;Masculino;Viudo;Perú;Apurímac;4;Familia
+876;1694;25;40155684;Punta Hermosa;LIMA SUR ;LIMA 24;Enero;Masculino;Casado;Perú;San Martín;4;Amistades
+877;7714;49;49526650;Magdalena del Mar;LIMA CENTRO ;LIMA 17;Diciembre;Masculino;Divorciado;Perú;Lambayeque;3;Amistades
+878;1652;34;40440902;Ate;LIMA ESTE ;LIMA 03;Octubre;Femenino;Soltero;Perú;Lima (Metropolitana);0;Viajes
+879;9064;32;48807286;San Martín de Porres;LIMA NORTE ;LIMA 31;Abril;Masculino;Viudo;Perú;Moquegua;2;Viajes
+880;8747;68;46106694;Santiago de Surco;LIMA CENTRO ;LIMA 33;Junio;Femenino;Divorciado;Perú;Tacna;1;Diversión
+881;6592;14;45940083;Santa Rosa;LIMA NORTE ;LIMA 38;Agosto;Femenino;Soltero;Perú;Huancavelica;0;Familia
+882;4739;38;49693869;Santa Anita;LIMA ESTE ;LIMA 43;Octubre;Masculino;Divorciado;Perú;Tumbes;2;Viajes
